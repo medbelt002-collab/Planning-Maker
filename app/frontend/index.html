@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UM6P Sync — Planning d'Occupation</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">R16</span>
+      <div>
+        <h1>UM6P Sync</h1>
+        <small>Planning d'Occupation · Résidence <span id="residence-badge">16</span></small>
+        <small class="made-by">Made by Baltaoui Mohammed</small>
+      </div>
+    </div>
+    <div class="top-status">
+      <span id="login-pill" class="pill pill-off">● Non connecté</span>
+      <span id="lastsync" class="muted">Dernière synchro : —</span>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="dashboard">Tableau de bord</button>
+    <button class="tab" data-tab="sync">Synchronisation</button>
+    <button class="tab" data-tab="results">Résultats</button>
+    <button class="tab" data-tab="reservations">Réservations</button>
+    <button class="tab" data-tab="journal">Journal</button>
+    <button class="tab" data-tab="archives">Archives</button>
+    <button class="tab" data-tab="check">Vérifier Planning</button>
+    <button class="tab" data-tab="noshow">No Show</button>
+    <button class="tab" data-tab="settings">Paramètres</button>
+  </nav>
+
+  <main>
+    <!-- DASHBOARD -->
+    <section id="tab-dashboard" class="panel active">
+      <div class="cards">
+        <div class="card"><div class="card-num" id="d-res">0</div><div class="card-lbl">Réservations</div></div>
+        <div class="card"><div class="card-num" id="d-pers">0</div><div class="card-lbl">Personnes</div></div>
+        <div class="card"><div class="card-num" id="d-studios">0</div><div class="card-lbl">Studios</div></div>
+        <div class="card"><div class="card-num" id="d-chambres">0</div><div class="card-lbl">Chambres</div></div>
+        <div class="card"><div class="card-num" id="d-attente">0</div><div class="card-lbl">En attente</div></div>
+        <div class="card"><div class="card-num" id="d-verif">0</div><div class="card-lbl">Vérifiées</div></div>
+      </div>
+      <div class="row2">
+        <div class="box">
+          <h3>État</h3>
+          <p>Connexion : <b id="s-login">—</b></p>
+          <p>Planning chargé : <b id="s-planning">—</b></p>
+          <p>Dernière synchro : <b id="s-lastsync">—</b></p>
+          <p>Durée dernière synchro : <b id="s-dur">—</b> s</p>
+          <p>Dernier « Créé le » traité : <b id="s-cree">—</b></p>
+          <p>Auto-sync : <b id="s-auto">—</b></p>
+        </div>
+        <div class="box">
+          <h3>Console</h3>
+          <pre id="console" class="console"></pre>
+        </div>
+      </div>
+    </section>
+
+    <!-- SYNC -->
+    <section id="tab-sync" class="panel">
+      <div class="box">
+        <h3>1 · Connexion</h3>
+        <p class="muted">Connectez-vous une seule fois (email + mot de passe + OTP téléphone). La session est mémorisée.</p>
+        <button id="btn-login" class="btn">🔐 Ouvrir la connexion</button>
+        <button id="btn-login-done" class="btn btn-primary hidden">✅ J'ai terminé la connexion</button>
+        <button id="btn-check" class="btn btn-ghost">Vérifier la session</button>
+        <button id="btn-debug" class="btn btn-ghost">Diagnostic (dump)</button>
+      </div>
+
+      <div class="box">
+        <h3>2 · Planning de base</h3>
+        <p class="muted">Chargez le dernier <b>Planning d'Occupation.xlsx</b>. Toute la mise en forme est conservée.</p>
+        <input type="file" id="file-planning" accept=".xlsx" />
+        <button id="btn-upload" class="btn">📄 Importer le planning</button>
+        <span id="upload-info" class="muted"></span>
+      </div>
+
+      <div class="box">
+        <h3>3 · Mode de synchronisation</h3>
+        <label class="radio"><input type="radio" name="mode" value="auto" checked /> Synchronisation automatique <span class="muted">(nouvelles depuis la dernière fois)</span></label>
+        <label class="radio"><input type="radio" name="mode" value="periode" /> Recherche par période (Créé le)</label>
+        <div id="periode-box" class="periode hidden">
+          <label>De <input type="date" id="date-from" /></label>
+          <label>À <input type="date" id="date-to" /></label>
+        </div>
+        <div class="actions">
+          <button id="btn-sync" class="btn btn-primary">🔄 Synchroniser</button>
+          <span id="sync-info" class="muted"></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESULTS / SIMULATION -->
+    <section id="tab-results" class="panel">
+      <div class="box">
+        <h3>Rapport</h3>
+        <div id="report" class="report muted">Aucune synchronisation pour l'instant.</div>
+      </div>
+      <div class="box">
+        <div class="results-head">
+          <h3>Changements détectés (simulation)</h3>
+          <div>
+            <button id="btn-verify-sel" class="btn btn-ghost">👁️ Vérifier la sélection</button>
+            <button id="btn-apply" class="btn btn-primary">✅ Appliquer & Télécharger</button>
+          </div>
+        </div>
+        <div id="anomalies"></div>
+        <table class="tbl" id="changes-tbl">
+          <thead><tr><th></th><th>Réf</th><th>Type</th><th>Détail</th><th>Action</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- RESERVATIONS -->
+    <section id="tab-reservations" class="panel">
+      <div class="box">
+        <div class="results-head">
+          <h3>Réservations</h3>
+          <input type="search" id="search" placeholder="Réf, nom, groupe, chambre, demandeur, entité…" />
+        </div>
+        <table class="tbl" id="res-tbl">
+          <thead><tr><th>Réf</th><th>Nom / Groupe</th><th>Section</th><th>Chambre</th><th>Arrivée</th><th>Départ</th><th>Pers.</th><th>Statut</th><th>Vérif</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- JOURNAL -->
+    <section id="tab-journal" class="panel">
+      <div class="box">
+        <h3>Journal des modifications</h3>
+        <table class="tbl" id="journal-tbl">
+          <thead><tr><th>Date</th><th>Réf</th><th>Client</th><th>Emplacement</th><th>Type</th><th>Détail</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ARCHIVES -->
+    <section id="tab-archives" class="panel">
+      <div class="box">
+        <h3>Archives des plannings</h3>
+        <table class="tbl" id="arch-tbl">
+          <thead><tr><th>Fichier</th><th>Date</th><th>Taille</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- VERIFY PLANNING -->
+    <section id="tab-check" class="panel">
+      <div class="box">
+        <h3>Vérifier un planning</h3>
+        <p class="muted">Importez un fichier Planning d'Occupation. Le système vérifie chaque réservation
+        contre Booking (données live si connecté) et signale : les réservations <b>absentes de Booking</b>,
+        les <b>annulées / rejetées</b> encore affichées, les <b>infos incorrectes</b>, les <b>No Show</b>
+        et les <b>départs non effectués (overstay)</b>.</p>
+        <input type="file" id="file-check" accept=".xlsx" />
+        <button id="btn-check-planning" class="btn">🔎 Vérifier</button>
+        <span id="check-info" class="muted"></span>
+      </div>
+
+      <div class="box">
+        <h3>Réservations absentes de Booking (<span id="check-nb1">0</span>)</h3>
+        <table class="tbl" id="check-tbl-1">
+          <thead><tr><th>Réf</th><th>Nom</th><th>Feuille</th><th>Section</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="box">
+        <h3>Réservations rejetées / annulées (<span id="check-nb2">0</span>)</h3>
+        <table class="tbl" id="check-tbl-2">
+          <thead><tr><th>Réf</th><th>Statut</th><th>Nom</th><th>Feuille</th><th>Section</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="box">
+        <h3>Infos incorrectes (<span id="check-nb3">0</span>)</h3>
+        <table class="tbl" id="check-tbl-3">
+          <thead><tr><th>Réf</th><th>Problème</th><th>Nom</th><th>Détail planning</th><th>Détail Booking</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <div class="box">
+        <h3>Départs non effectués — overstay (<span id="check-nb5">0</span>)</h3>
+        <p class="muted">« Départ réel » après la « Date de départ ». Les jours supplémentaires sont
+        ajoutés en rouge dans le planning corrigé (voir téléchargement).</p>
+        <table class="tbl" id="check-tbl-5">
+          <thead><tr><th>Réf</th><th>Nom</th><th>Départ prévu</th><th>Départ réel</th><th>Jours+</th><th>Pers.</th></tr></thead>
+          <tbody></tbody>
+        </table>
+        <div id="check-corrected"></div>
+      </div>
+    </section>
+
+    <!-- NO SHOW -->
+    <section id="tab-noshow" class="panel">
+      <div class="box">
+        <h3>No Show — arrivées sans check-in</h3>
+        <p class="muted">Réservations dont la date d'arrivée est aujourd'hui (ou passée) et sans
+        « Arrivée réelle ». Elles restent affichées jusqu'à l'enregistrement d'un check-in
+        (données live Booking, session requise).</p>
+        <button id="btn-no-show" class="btn">🔎 Actualiser le No Show</button>
+        <span id="noshow-info" class="muted"></span>
+      </div>
+      <div class="box">
+        <h3>No Show (<span id="noshow-nb">0</span>)</h3>
+        <table class="tbl" id="noshow-tbl">
+          <thead><tr><th>Réf</th><th>Nom / Groupe</th><th>Arrivée</th><th>Pers.</th><th>Chambre</th><th>Statut</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- SETTINGS -->
+    <section id="tab-settings" class="panel">
+      <div class="box">
+        <h3>Paramètres généraux</h3>
+        <label>Résidence <input type="text" id="cfg-residence" /></label>
+        <label>Seuil groupe (> N → Sujet) <input type="number" id="cfg-threshold" min="1" /></label>
+        <label>À l'annulation
+          <select id="cfg-oncancel"><option value="delete">Supprimer</option><option value="archive">Archiver</option></select>
+        </label>
+        <label class="chk"><input type="checkbox" id="cfg-autoapply" /> Appliquer automatiquement (sans simulation)</label>
+        <label class="chk"><input type="checkbox" id="cfg-autosync" /> Auto-sync (surveillance)</label>
+        <label>Intervalle auto-sync (minutes) <input type="number" id="cfg-autominutes" min="1" /></label>
+      </div>
+      <div class="box">
+        <h3>Statuts (configurable)</h3>
+        <p class="muted">Chaque statut de Booking → action. <b>add</b>=ajouter, <b>delete</b>=supprimer, <b>ignore</b>=ignorer. nuitées : <b>dates</b> ou <b>one_per_person</b>.</p>
+        <table class="tbl" id="status-tbl">
+          <thead><tr><th>Contient</th><th>Libellé</th><th>Action</th><th>Note</th><th>Nuitées</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+        <button id="btn-add-status" class="btn btn-ghost">+ Ajouter un statut</button>
+      </div>
+      <div class="actions">
+        <button id="btn-save-config" class="btn btn-primary">💾 Enregistrer les paramètres</button>
+        <span id="cfg-info" class="muted"></span>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast hidden"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3962 @@
+[
+  {
+    "ts": "2026-07-12T05:59:57",
+    "ref": "32228",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T05:59:57",
+    "ref": "32229",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T06:20:37",
+    "ref": "32230",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:10:24",
+    "ref": "999002",
+    "kind": "annulation",
+    "detail": "Status = CANCELED",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32230",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32114",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, depart: 2026-07-21 → 2026-07-22",
+    "before": {
+      "nom": "fatim ezzahra baloune",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-21"
+    },
+    "after": {
+      "nom": "fatim ezzahra baloune",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-22"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32077",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32059",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, arrivee: 2026-07-13 → 2026-07-27, depart: 2026-07-28 → 2026-07-29",
+    "before": {
+      "nom": "Zohra Essabir",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-28"
+    },
+    "after": {
+      "nom": "Zohra Essabir",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-27",
+      "depart": "2026-07-29"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32053",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, depart: 2026-07-10 → 2026-07-11",
+    "before": {
+      "nom": "Abdellah Menou",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FICE002",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-10",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "Abdellah Menou",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FICE002",
+      "entite": "GTI",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-10",
+      "depart": "2026-07-11"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31398",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "Rachid  MRABET / Mustapha NAIMI / Mohamed Chikhaoui",
+      "demandeur": "Amine bouskri",
+      "ligne_budgetaire": "135AUPR007",
+      "entite": "UGF",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "Rachid  MRABET / Mustapha NAIMI / Mohamed Chikhaoui",
+      "demandeur": "Amine bouskri",
+      "ligne_budgetaire": "135AUPR007",
+      "entite": "UGF",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31122",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, nb_personnes: 6 → 3, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Taoufik Laamyem / Fahd Guitouni / Riad Tabiben",
+      "demandeur": "Amine bouskri",
+      "ligne_budgetaire": "RD-EC_SUIVI",
+      "entite": "UGF",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 6,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Taoufik Laamyem / Fahd Guitouni / Riad Tabiben",
+      "demandeur": "Amine bouskri",
+      "ligne_budgetaire": "RD-EC_SUIVI",
+      "entite": "UGF",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30394",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, depart: 2026-07-13 → 2026-07-14",
+    "before": {
+      "nom": "KAMAL FAIZ / Marwa SOUNNY SLITINE",
+      "demandeur": "Imane Anejjar",
+      "ligne_budgetaire": "155-HC-CC",
+      "entite": "CAREER CENTER",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-13"
+    },
+    "after": {
+      "nom": "KAMAL FAIZ / Marwa SOUNNY SLITINE",
+      "demandeur": "Imane Anejjar",
+      "ligne_budgetaire": "155-HC-CC",
+      "entite": "CAREER CENTER",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-14"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29492",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29491",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29489",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "19887",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, arrivee: 2026-07-01 → 2026-06-28, depart: 2026-07-17 → 2026-07-18",
+    "before": {
+      "nom": "DOUNIA WAHIM / HAJAR DLIA / SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-17"
+    },
+    "after": {
+      "nom": "DOUNIA WAHIM / HAJAR DLIA / SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-06-28",
+      "depart": "2026-07-18"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "18183",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-a, status: VALIDATED → COMPLETED, nb_personnes: 1024 → 32, depart: 2026-07-03 → 2026-07-04",
+    "before": {
+      "nom": "Groupe Ex MASTER - ExOP G2",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1024,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-03"
+    },
+    "after": {
+      "nom": "Groupe Ex MASTER - ExOP G2",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "16A01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 32,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-04"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32228",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-b, status: VALIDATED → PENDING, nb_personnes: 529 → 18, arrivee: 2026-07-13 → 2026-07-14",
+    "before": {
+      "nom": "Groupe Concours Oraux",
+      "demandeur": "Bader ESSADQI",
+      "ligne_budgetaire": "116FIGP001",
+      "entite": "ISTI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 529,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-15"
+    },
+    "after": {
+      "nom": "Groupe Concours Oraux",
+      "demandeur": "Bader ESSADQI",
+      "ligne_budgetaire": "116FIGP001",
+      "entite": "ISTI",
+      "room_code": "16A01-b",
+      "room_type": "CHAMBRE",
+      "status": "PENDING",
+      "nb_personnes": 18,
+      "arrivee": "2026-07-14",
+      "depart": "2026-07-15"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32180",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-b, status: VALIDATED → COMPLETED, depart: 2026-07-20 → 2026-07-21",
+    "before": {
+      "nom": "Mohamed LAMNAI",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "111000001104",
+      "entite": "CENTRE D'EXCELLENCE CIE",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-20"
+    },
+    "after": {
+      "nom": "Mohamed LAMNAI",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "111000001104",
+      "entite": "CENTRE D'EXCELLENCE CIE",
+      "room_code": "16A01-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-21"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32115",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-b, status: VALIDATED → COMPLETED, depart: 2026-07-22 → 2026-07-23",
+    "before": {
+      "nom": "sanae essalmi",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-21",
+      "depart": "2026-07-22"
+    },
+    "after": {
+      "nom": "sanae essalmi",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "16A01-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-21",
+      "depart": "2026-07-23"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31403",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-b, status: VALIDATED → COMPLETED, nb_personnes: 5184 → 72, arrivee: 2026-08-01 → 2026-07-26, depart: 2026-08-06 → 2026-08-07",
+    "before": {
+      "nom": "Groupe Mourafaka Lot 3 région DOD session 2",
+      "demandeur": "Fatima Zahra",
+      "ligne_budgetaire": "124LOPR06-1",
+      "entite": "COOP-LAB",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 5184,
+      "arrivee": "2026-08-01",
+      "depart": "2026-08-06"
+    },
+    "after": {
+      "nom": "Groupe Mourafaka Lot 3 région DOD session 2",
+      "demandeur": "Fatima Zahra",
+      "ligne_budgetaire": "124LOPR06-1",
+      "entite": "COOP-LAB",
+      "room_code": "16A01-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 72,
+      "arrivee": "2026-07-26",
+      "depart": "2026-08-07"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31142",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-b, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-11 → 2026-07-12",
+    "before": {
+      "nom": "Imad El Maskini / Najoua Ettouri / Chaymae Sennoune",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FICE002",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-11"
+    },
+    "after": {
+      "nom": "Imad El Maskini / Najoua Ettouri / Chaymae Sennoune",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FICE002",
+      "entite": "GTI",
+      "room_code": "16A01-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-12"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29793",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-b, status: VALIDATED → COMPLETED, nb_personnes: 900 → 30, depart: 2026-07-23 → 2026-07-24",
+    "before": {
+      "nom": "Groupe MMC 2026",
+      "demandeur": "Mounia KALTOUMI",
+      "ligne_budgetaire": "173FI-maths",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 900,
+      "arrivee": "2026-07-23",
+      "depart": "2026-07-23"
+    },
+    "after": {
+      "nom": "Groupe MMC 2026",
+      "demandeur": "Mounia KALTOUMI",
+      "ligne_budgetaire": "173FI-maths",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "16A01-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 30,
+      "arrivee": "2026-07-23",
+      "depart": "2026-07-24"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32129",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-c, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, depart: 2026-07-21 → 2026-07-22",
+    "before": {
+      "nom": "Abdeltif Zridi / Mina Bouti",
+      "demandeur": "Mariem benmhamed",
+      "ligne_budgetaire": "102-FI-OM",
+      "entite": "OPEN MINDS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-21",
+      "depart": "2026-07-21"
+    },
+    "after": {
+      "nom": "Abdeltif Zridi / Mina Bouti",
+      "demandeur": "Mariem benmhamed",
+      "ligne_budgetaire": "102-FI-OM",
+      "entite": "OPEN MINDS",
+      "room_code": "16A01-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-07-21",
+      "depart": "2026-07-22"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32123",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-c, status: VALIDATED → COMPLETED, depart: 2026-07-14 → 2026-07-15",
+    "before": {
+      "nom": "AHACHAD MOHAMMED",
+      "demandeur": "kaoutare TAMNAINE",
+      "ligne_budgetaire": "124DPMS006",
+      "entite": "SAP+D",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-12",
+      "depart": "2026-07-14"
+    },
+    "after": {
+      "nom": "AHACHAD MOHAMMED",
+      "demandeur": "kaoutare TAMNAINE",
+      "ligne_budgetaire": "124DPMS006",
+      "entite": "SAP+D",
+      "room_code": "16A01-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-12",
+      "depart": "2026-07-15"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31174",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-c, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-08 → 2026-07-02",
+    "before": {
+      "nom": "Abdelkarim el bouihi",
+      "demandeur": "Issam Ouardani",
+      "ligne_budgetaire": "150-FI-SL",
+      "entite": "SOLE",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-08"
+    },
+    "after": {
+      "nom": "Abdelkarim el bouihi",
+      "demandeur": "Issam Ouardani",
+      "ligne_budgetaire": "150-FI-SL",
+      "entite": "SOLE",
+      "room_code": "16A01-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30753",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-c, status: VALIDATED → COMPLETED, nb_personnes: 2500 → 50, depart: 2026-07-11 → 2026-07-12",
+    "before": {
+      "nom": "Groupe Préreservation - Green Hydrogen Summer Camp & Hackathon 2026",
+      "demandeur": "Mouad TOUIL",
+      "ligne_budgetaire": "167FIME006",
+      "entite": "LIMSET",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 2500,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-11"
+    },
+    "after": {
+      "nom": "Groupe Préreservation - Green Hydrogen Summer Camp & Hackathon 2026",
+      "demandeur": "Mouad TOUIL",
+      "ligne_budgetaire": "167FIME006",
+      "entite": "LIMSET",
+      "room_code": "16A01-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 50,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-12"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32181",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-d, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-14 → 2026-07-15",
+    "before": {
+      "nom": "Nouredine Ouhaddou / Mohamed Jalal Maaouni / Noureddine Hamid",
+      "demandeur": "Hamza HACHAMI",
+      "ligne_budgetaire": "169-FI",
+      "entite": "VANGUARD",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-14"
+    },
+    "after": {
+      "nom": "Nouredine Ouhaddou / Mohamed Jalal Maaouni / Noureddine Hamid",
+      "demandeur": "Hamza HACHAMI",
+      "ligne_budgetaire": "169-FI",
+      "entite": "VANGUARD",
+      "room_code": "16A01-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-15"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31835",
+    "kind": "modification",
+    "detail": "room_code:  → 16A01-d, status: VALIDATED → COMPLETED, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Youssef Moulane",
+      "demandeur": "Mohamed BENKIRANE",
+      "ligne_budgetaire": "163WOPR004",
+      "entite": "IAP",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Youssef Moulane",
+      "demandeur": "Mohamed BENKIRANE",
+      "ligne_budgetaire": "163WOPR004",
+      "entite": "IAP",
+      "room_code": "16A01-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29490",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30312",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "21106",
+    "kind": "modification",
+    "detail": "room_code:  → 16A02-b, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, arrivee: 2026-05-01 → 2025-12-31, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Ibtissam Benhamou / Dr Anas Chehboun",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Ibtissam Benhamou / Dr Anas Chehboun",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A02-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2025-12-31",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32154",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31834",
+    "kind": "modification",
+    "detail": "room_code:  → 16A02-d, status: VALIDATED → COMPLETED, depart: 2026-07-08 → 2026-07-02",
+    "before": {
+      "nom": "Mme BAYAHIA HANANE",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-08"
+    },
+    "after": {
+      "nom": "Mme BAYAHIA HANANE",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A02-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29301",
+    "kind": "modification",
+    "detail": "room_code:  → 16A02-d, status: VALIDATED → COMPLETED, arrivee: 2026-12-01 → 2026-07-10, depart: 2026-12-30 → 2026-12-31",
+    "before": {
+      "nom": "Chu",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "null",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-12-01",
+      "depart": "2026-12-30"
+    },
+    "after": {
+      "nom": "Chu",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "null",
+      "entite": "CHU",
+      "room_code": "16A02-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-10",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32097",
+    "kind": "modification",
+    "detail": "room_code:  → 16A03-a, status: VALIDATED → COMPLETED, nb_personnes: 100 → 10, depart: 2026-07-17 → 2026-07-18",
+    "before": {
+      "nom": "Groupe SRM TTA",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFC011-B",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 100,
+      "arrivee": "2026-07-12",
+      "depart": "2026-07-17"
+    },
+    "after": {
+      "nom": "Groupe SRM TTA",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFC011-B",
+      "entite": "TECHNIX",
+      "room_code": "16A03-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 10,
+      "arrivee": "2026-07-12",
+      "depart": "2026-07-18"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31390",
+    "kind": "modification",
+    "detail": "room_code:  → 16A03-a, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-28, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "SALAH BENALY",
+      "demandeur": "Ghizlane benziouana",
+      "ligne_budgetaire": "101-FI",
+      "entite": "EMINES",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "SALAH BENALY",
+      "demandeur": "Ghizlane benziouana",
+      "ligne_budgetaire": "101-FI",
+      "entite": "EMINES",
+      "room_code": "16A03-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-28",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31589",
+    "kind": "modification",
+    "detail": "room_code:  → 16A03-b, status: VALIDATED → COMPLETED, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Aya bouziane",
+      "demandeur": "Rabeaa AIT",
+      "ligne_budgetaire": "198-FI",
+      "entite": "IADT",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Aya bouziane",
+      "demandeur": "Rabeaa AIT",
+      "ligne_budgetaire": "198-FI",
+      "entite": "IADT",
+      "room_code": "16A03-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31504",
+    "kind": "modification",
+    "detail": "room_code:  → 16A03-c, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Zineb OUALLAOUT",
+      "demandeur": "Imane FAKKAR",
+      "ligne_budgetaire": "113DPPR026-1",
+      "entite": "CBS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Zineb OUALLAOUT",
+      "demandeur": "Imane FAKKAR",
+      "ligne_budgetaire": "113DPPR026-1",
+      "entite": "CBS",
+      "room_code": "16A03-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31505",
+    "kind": "modification",
+    "detail": "room_code:  → 16A03-d, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "IKHLASSE BADIDI / AMINE TIYANE",
+      "demandeur": "Fatimaezzahra NACIRI",
+      "ligne_budgetaire": "155-SIS-OA",
+      "entite": "DSA",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "IKHLASSE BADIDI / AMINE TIYANE",
+      "demandeur": "Fatimaezzahra NACIRI",
+      "ligne_budgetaire": "155-SIS-OA",
+      "entite": "DSA",
+      "room_code": "16A03-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31725",
+    "kind": "modification",
+    "detail": "room_code:  → 16A11-b, status: VALIDATED → COMPLETED, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Manal EL AKROUCHI",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "RSC_SCI_ME",
+      "entite": "SCI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Manal EL AKROUCHI",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "RSC_SCI_ME",
+      "entite": "SCI",
+      "room_code": "16A11-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31792",
+    "kind": "modification",
+    "detail": "room_code:  → 16A11-c, status: VALIDATED → COMPLETED, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Ali Bouabid",
+      "demandeur": "Zineb MARJAN",
+      "ligne_budgetaire": "148 - DP",
+      "entite": "ISE",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Ali Bouabid",
+      "demandeur": "Zineb MARJAN",
+      "ligne_budgetaire": "148 - DP",
+      "entite": "ISE",
+      "room_code": "16A11-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32229",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32168",
+    "kind": "modification",
+    "detail": "room_code:  → 16A12-c, status: VALIDATED → COMPLETED, depart: 2026-07-16 → 2026-07-17",
+    "before": {
+      "nom": "yassine belouquid",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129-FI",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-14",
+      "depart": "2026-07-16"
+    },
+    "after": {
+      "nom": "yassine belouquid",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129-FI",
+      "entite": "COMMUNICATION",
+      "room_code": "16A12-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-14",
+      "depart": "2026-07-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32175",
+    "kind": "modification",
+    "detail": "room_code:  → 16A12-d, status: VALIDATED → COMPLETED, depart: 2026-07-16 → 2026-07-17",
+    "before": {
+      "nom": "Sara ait hak",
+      "demandeur": "Imane FAKKAR",
+      "ligne_budgetaire": "113DPPR026-1",
+      "entite": "CBS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-16"
+    },
+    "after": {
+      "nom": "Sara ait hak",
+      "demandeur": "Imane FAKKAR",
+      "ligne_budgetaire": "113DPPR026-1",
+      "entite": "CBS",
+      "room_code": "16A12-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32007",
+    "kind": "modification",
+    "detail": "room_code:  → 16A12-d, status: VALIDATED → COMPLETED, depart: 2026-07-10 → 2026-07-04",
+    "before": {
+      "nom": "Abdellah madoun",
+      "demandeur": "Issam Ouardani",
+      "ligne_budgetaire": "150-FI-SL",
+      "entite": "SOLE",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-03",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "Abdellah madoun",
+      "demandeur": "Issam Ouardani",
+      "ligne_budgetaire": "150-FI-SL",
+      "entite": "SOLE",
+      "room_code": "16A12-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-03",
+      "depart": "2026-07-04"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29488",
+    "kind": "modification",
+    "detail": "room_code:  → 16A12-d, status: VALIDATED → COMPLETED, depart: 2026-07-30 → 2026-07-03",
+    "before": {
+      "nom": "Mokhtar BenEmbarek",
+      "demandeur": "souad aboud",
+      "ligne_budgetaire": "116FI-LMTP",
+      "entite": "ISTI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-30"
+    },
+    "after": {
+      "nom": "Mokhtar BenEmbarek",
+      "demandeur": "souad aboud",
+      "ligne_budgetaire": "116FI-LMTP",
+      "entite": "ISTI",
+      "room_code": "16A12-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31358",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "11775",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-b, status: VALIDATED → COMPLETED, nb_personnes: 2 → 1, arrivee: 2026-05-01 → 2025-07-14, depart: 2026-05-30 → 2027-08-19",
+    "before": {
+      "nom": "Dr Iliass Nour Idrissi",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "U198",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 2,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Iliass Nour Idrissi",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "U198",
+      "entite": "CHU",
+      "room_code": "16A13-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-07-14",
+      "depart": "2027-08-19"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31732",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-c, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-30, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Dr EL\n  BEKKALI FOUAD",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Dr EL\n  BEKKALI FOUAD",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A13-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-30",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31250",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-c, status: VALIDATED → COMPLETED, arrivee: 2026-12-01 → 2026-07-04, depart: 2026-12-30 → 2026-12-31",
+    "before": {
+      "nom": "Chu",
+      "demandeur": "Rahma BENCHOUAI",
+      "ligne_budgetaire": "null",
+      "entite": "chu",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-12-01",
+      "depart": "2026-12-30"
+    },
+    "after": {
+      "nom": "Chu",
+      "demandeur": "Rahma BENCHOUAI",
+      "ligne_budgetaire": "null",
+      "entite": "chu",
+      "room_code": "16A13-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-04",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "22011",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-c, status: VALIDATED → COMPLETED, nb_personnes: 2 → 1, arrivee: 2026-05-01 → 2026-01-19, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Mehdi Maskouf",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 2,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Mehdi Maskouf",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A13-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-01-19",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "19897",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-c, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-12-10, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Mehdi Maskouf",
+      "demandeur": "Abdellah MOUSSAID",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Mehdi Maskouf",
+      "demandeur": "Abdellah MOUSSAID",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A13-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-12-10",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "15650",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-c, status: VALIDATED → COMPLETED, nb_personnes: 2 → 1, arrivee: 2026-05-01 → 2025-10-14, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr MASKOUF MEHDI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 2,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr MASKOUF MEHDI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A13-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-10-14",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "11632",
+    "kind": "modification",
+    "detail": "room_code:  → 16A13-d, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-08-12, depart: 2026-05-30 → 2026-08-12",
+    "before": {
+      "nom": "Dr Sidiki Kamissok",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Sidiki Kamissok",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A13-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-08-12",
+      "depart": "2026-08-12"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32178",
+    "kind": "modification",
+    "detail": "room_code:  → 16A21-a, status: VALIDATED → COMPLETED, nb_personnes: 819 → 21, depart: 2026-07-16 → 2026-07-17",
+    "before": {
+      "nom": "Groupe TAGDEV - Formation RAE2C",
+      "demandeur": "Samira AZOUAKAN",
+      "ligne_budgetaire": "111DP-UE",
+      "entite": "I&E LAB",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 819,
+      "arrivee": "2026-07-15",
+      "depart": "2026-07-16"
+    },
+    "after": {
+      "nom": "Groupe TAGDEV - Formation RAE2C",
+      "demandeur": "Samira AZOUAKAN",
+      "ligne_budgetaire": "111DP-UE",
+      "entite": "I&E LAB",
+      "room_code": "16A21-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 21,
+      "arrivee": "2026-07-15",
+      "depart": "2026-07-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32124",
+    "kind": "modification",
+    "detail": "room_code:  → 16A21-b, status: VALIDATED → COMPLETED, nb_personnes: 49 → 7, depart: 2026-07-16 → 2026-07-17",
+    "before": {
+      "nom": "Groupe Bootcamp Summer 2",
+      "demandeur": "Imane Anejjar",
+      "ligne_budgetaire": "155FI-SEP2",
+      "entite": "CAREER CENTER",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 49,
+      "arrivee": "2026-07-15",
+      "depart": "2026-07-16"
+    },
+    "after": {
+      "nom": "Groupe Bootcamp Summer 2",
+      "demandeur": "Imane Anejjar",
+      "ligne_budgetaire": "155FI-SEP2",
+      "entite": "CAREER CENTER",
+      "room_code": "16A21-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 7,
+      "arrivee": "2026-07-15",
+      "depart": "2026-07-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30993",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29718",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-a, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-12, depart: 2026-07-06 → 2026-07-07",
+    "before": {
+      "nom": "Dr My Slimane Alaoui",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-06"
+    },
+    "after": {
+      "nom": "Dr My Slimane Alaoui",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-12",
+      "depart": "2026-07-07"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "27648",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-a, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2026-04-12, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr Arsène NTINI",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Arsène NTINI",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-04-12",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "19553",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-a, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-12-02, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr Mouna EL BOUATMANI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Mouna EL BOUATMANI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-12-02",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "19161",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "18652",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-a, status: VALIDATED → COMPLETED, nb_personnes: 2 → 1, arrivee: 2026-05-01 → 2025-11-11, depart: 2026-05-30 → 2026-11-17",
+    "before": {
+      "nom": "Dr. Riad Semlali",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 2,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr. Riad Semlali",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-11-11",
+      "depart": "2026-11-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "15657",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-a, status: VALIDATED → COMPLETED, nb_personnes: 16 → 4, arrivee: 2026-05-01 → 2025-10-09, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr ELBOUATMANI Mouna / Jihane mhaili / Dr ETTOUMI NABIL / Hajar Dahman",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 16,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr ELBOUATMANI Mouna / Jihane mhaili / Dr ETTOUMI NABIL / Hajar Dahman",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 4,
+      "arrivee": "2025-10-09",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "12247",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-b, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, arrivee: 2026-05-01 → 2025-07-14, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr Sara Jourani / Dr Nezha Haimeur / Dr El Yazid Alaoui Boufares",
+      "demandeur": "Khadija LAKHDAR",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Sara Jourani / Dr Nezha Haimeur / Dr El Yazid Alaoui Boufares",
+      "demandeur": "Khadija LAKHDAR",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2025-07-14",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31833",
+    "kind": "modification",
+    "detail": "room_code:  → 16A23-d, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-30, depart: 2026-07-01 → 2026-07-07",
+    "before": {
+      "nom": "Dr\n  Arsène NTINI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Dr\n  Arsène NTINI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A23-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-30",
+      "depart": "2026-07-07"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30362",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32066",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "21127",
+    "kind": "modification",
+    "detail": "room_code:  → 16A33-a, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2026-01-01, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Mouna El Kadiri",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Mouna El Kadiri",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A33-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-01-01",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "25380",
+    "kind": "modification",
+    "detail": "room_code:  → 16A33-b, status: VALIDATED → COMPLETED, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr El Bekkali Fouad",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-05",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr El Bekkali Fouad",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A33-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-05",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31028",
+    "kind": "modification",
+    "detail": "room_code:  → 16A33-d, status: VALIDATED → COMPLETED, arrivee: 2026-12-01 → 2026-06-18, depart: 2026-12-01 → 2026-12-31",
+    "before": {
+      "nom": "Chu",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-12-01",
+      "depart": "2026-12-01"
+    },
+    "after": {
+      "nom": "Chu",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16A33-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-18",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "24764",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "17209",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32167",
+    "kind": "modification",
+    "detail": "room_code:  → 16B02-a, status: VALIDATED → COMPLETED, depart: 2026-07-23 → 2026-07-24",
+    "before": {
+      "nom": "Khalid Kouiss",
+      "demandeur": "Naima AOUAD",
+      "ligne_budgetaire": "147FIRME001",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-19",
+      "depart": "2026-07-23"
+    },
+    "after": {
+      "nom": "Khalid Kouiss",
+      "demandeur": "Naima AOUAD",
+      "ligne_budgetaire": "147FIRME001",
+      "entite": "GTI",
+      "room_code": "16B02-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-19",
+      "depart": "2026-07-24"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30820",
+    "kind": "modification",
+    "detail": "room_code:  → 16B02-a, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, arrivee: 2026-07-01 → 2026-06-28, depart: 2026-07-13 → 2026-07-05",
+    "before": {
+      "nom": "YOU YA / ZHU XINQUAN",
+      "demandeur": "Ibtissam BAHBOUHI",
+      "ligne_budgetaire": "154DPP3-3-10",
+      "entite": "ACER COE",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-13"
+    },
+    "after": {
+      "nom": "YOU YA / ZHU XINQUAN",
+      "demandeur": "Ibtissam BAHBOUHI",
+      "ligne_budgetaire": "154DPP3-3-10",
+      "entite": "ACER COE",
+      "room_code": "16B02-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-06-28",
+      "depart": "2026-07-05"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30851",
+    "kind": "modification",
+    "detail": "room_code:  → 16B02-c, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-03 → 2026-07-04",
+    "before": {
+      "nom": "Mademoiselle Oumkeltoum AMAR",
+      "demandeur": "Soumya CHOUQUI",
+      "ligne_budgetaire": "191-DP Deplacement de Recherche Appliquee",
+      "entite": "MASCIR",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    },
+    "after": {
+      "nom": "Mademoiselle Oumkeltoum AMAR",
+      "demandeur": "Soumya CHOUQUI",
+      "ligne_budgetaire": "191-DP Deplacement de Recherche Appliquee",
+      "entite": "MASCIR",
+      "room_code": "16B02-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-04"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31485",
+    "kind": "modification",
+    "detail": "room_code:  → 16B11-b, status: VALIDATED → COMPLETED, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Abnane Ibtissam",
+      "demandeur": "Rabeaa AIT",
+      "ligne_budgetaire": "198-FI",
+      "entite": "IADT",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Abnane Ibtissam",
+      "demandeur": "Rabeaa AIT",
+      "ligne_budgetaire": "198-FI",
+      "entite": "IADT",
+      "room_code": "16B11-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29598",
+    "kind": "modification",
+    "detail": "room_code:  → 16B11-c, status: VALIDATED → COMPLETED, nb_personnes: 361 → 19, depart: 2026-07-03 → 2026-07-04",
+    "before": {
+      "nom": "Groupe EM MRH G1",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 361,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-03"
+    },
+    "after": {
+      "nom": "Groupe EM MRH G1",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "16B11-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 19,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-04"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "18516",
+    "kind": "modification",
+    "detail": "room_code:  → 16B22-b, status: VALIDATED → COMPLETED, nb_personnes: 900 → 30, arrivee: 2026-07-01 → 2026-06-30, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Groupe Ex MASTER - NRJ G2",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 900,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Groupe Ex MASTER - NRJ G2",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "16B22-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 30,
+      "arrivee": "2026-06-30",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31443",
+    "kind": "modification",
+    "detail": "room_code:  → 16B22-c, status: VALIDATED → COMPLETED, depart: 2026-07-04 → 2026-07-05",
+    "before": {
+      "nom": "EL yazid riabi",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "102,000,900,111",
+      "entite": "ABS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-04"
+    },
+    "after": {
+      "nom": "EL yazid riabi",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "102,000,900,111",
+      "entite": "ABS",
+      "room_code": "16B22-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-05"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30826",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31339",
+    "kind": "modification",
+    "detail": "room_code:  → 16B31-c, status: VALIDATED → COMPLETED, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "Khalid Kouiss",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIRME001",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "Khalid Kouiss",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIRME001",
+      "entite": "GTI",
+      "room_code": "16B31-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31289",
+    "kind": "modification",
+    "detail": "room_code:  → 16B32-a, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-10 → 2026-07-11",
+    "before": {
+      "nom": "RAJAE Bennane / OUIDIANE ZOUHRI / ESSERHANI MOHAMED",
+      "demandeur": "Ghizlane benziouana",
+      "ligne_budgetaire": "101-FI",
+      "entite": "EMINES",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "RAJAE Bennane / OUIDIANE ZOUHRI / ESSERHANI MOHAMED",
+      "demandeur": "Ghizlane benziouana",
+      "ligne_budgetaire": "101-FI",
+      "entite": "EMINES",
+      "room_code": "16B32-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-11"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31837",
+    "kind": "modification",
+    "detail": "room_code:  → 16C11-a, status: VALIDATED → COMPLETED, depart: 2026-07-08 → 2026-07-09",
+    "before": {
+      "nom": "MAHA HANIF",
+      "demandeur": "Mouna AIT BENSALEM",
+      "ligne_budgetaire": "122FICI005",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-08"
+    },
+    "after": {
+      "nom": "MAHA HANIF",
+      "demandeur": "Mouna AIT BENSALEM",
+      "ligne_budgetaire": "122FICI005",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "16C11-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-09"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31816",
+    "kind": "modification",
+    "detail": "room_code:  → 16C11-a, status: VALIDATED → COMPLETED, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "EL MACHKOURI MOHAMED",
+      "demandeur": "Ghizlane benziouana",
+      "ligne_budgetaire": "101-FI",
+      "entite": "EMINES",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "EL MACHKOURI MOHAMED",
+      "demandeur": "Ghizlane benziouana",
+      "ligne_budgetaire": "101-FI",
+      "entite": "EMINES",
+      "room_code": "16C11-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31801",
+    "kind": "modification",
+    "detail": "room_code:  → 16C11-a, status: VALIDATED → COMPLETED, depart: 2026-07-05 → 2026-07-06",
+    "before": {
+      "nom": "Zouhir BALAGH",
+      "demandeur": "Aymane BOUHMID",
+      "ligne_budgetaire": "121DPPR013",
+      "entite": "GSMI/ GEP",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-04",
+      "depart": "2026-07-05"
+    },
+    "after": {
+      "nom": "Zouhir BALAGH",
+      "demandeur": "Aymane BOUHMID",
+      "ligne_budgetaire": "121DPPR013",
+      "entite": "GSMI/ GEP",
+      "room_code": "16C11-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-04",
+      "depart": "2026-07-06"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29556",
+    "kind": "modification",
+    "detail": "room_code:  → 16C11-a, status: VALIDATED → COMPLETED, nb_personnes: 1089 → 33, depart: 2026-07-10 → 2026-07-11",
+    "before": {
+      "nom": "Groupe EM EXOP G1",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1089,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "Groupe EM EXOP G1",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "16C11-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 33,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-11"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31928",
+    "kind": "modification",
+    "detail": "room_code:  → 16C11-b, status: VALIDATED → COMPLETED, depart: 2026-07-08 → 2026-07-09",
+    "before": {
+      "nom": "SOUKRATI ZAKARIAE",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFC011-B",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-08"
+    },
+    "after": {
+      "nom": "SOUKRATI ZAKARIAE",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFC011-B",
+      "entite": "TECHNIX",
+      "room_code": "16C11-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-09"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32032",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32039",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32037",
+    "kind": "modification",
+    "detail": "room_code:  → 16C11-d, status: VALIDATED → COMPLETED",
+    "before": {
+      "nom": "Fouzia Lamnafsi",
+      "demandeur": "Nezha BENTALB",
+      "ligne_budgetaire": "127DP-PART",
+      "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-08"
+    },
+    "after": {
+      "nom": "Fouzia Lamnafsi",
+      "demandeur": "Nezha BENTALB",
+      "ligne_budgetaire": "127DP-PART",
+      "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+      "room_code": "16C11-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32042",
+    "kind": "modification",
+    "detail": "room_code:  → 16C12-a, status: VALIDATED → COMPLETED, depart: 2026-07-10 → 2026-07-09",
+    "before": {
+      "nom": "Asma  BOUSSELMI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "Asma  BOUSSELMI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "16C12-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-09"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "28679",
+    "kind": "modification",
+    "detail": "room_code:  → 16C12-b, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "HAJAR DLIA / SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "HAJAR DLIA / SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "16C12-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32105",
+    "kind": "modification",
+    "detail": "room_code:  → 16C12-c, status: VALIDATED → COMPLETED, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "16C12-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32093",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32055",
+    "kind": "modification",
+    "detail": "room_code:  → 16C12-d, status: VALIDATED → COMPLETED, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "Rachid IBBA",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPMKT126.",
+      "entite": "ABS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "Rachid IBBA",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPMKT126.",
+      "entite": "ABS",
+      "room_code": "16C12-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32058",
+    "kind": "modification",
+    "detail": "room_code:  → 16C21-a, status: VALIDATED → COMPLETED, depart: 2026-07-23 → 2026-07-09",
+    "before": {
+      "nom": "Aya Lazhar",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-23"
+    },
+    "after": {
+      "nom": "Aya Lazhar",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "16C21-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-09"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32060",
+    "kind": "modification",
+    "detail": "room_code:  → 16C21-b, status: VALIDATED → COMPLETED, depart: 2026-07-28 → 2026-07-09",
+    "before": {
+      "nom": "Rania Aouiribi",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-28"
+    },
+    "after": {
+      "nom": "Rania Aouiribi",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "16C21-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-09"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32080",
+    "kind": "modification",
+    "detail": "room_code:  → 16C21-c, status: VALIDATED → COMPLETED, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "ILYASS SLASSI",
+      "demandeur": "Salim CHIGUER",
+      "ligne_budgetaire": "190FI",
+      "entite": "CEPH",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "ILYASS SLASSI",
+      "demandeur": "Salim CHIGUER",
+      "ligne_budgetaire": "190FI",
+      "entite": "CEPH",
+      "room_code": "16C21-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "28884",
+    "kind": "modification",
+    "detail": "room_code:  → 16C21-d, status: VALIDATED → COMPLETED, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "EL Bouzidi Salah Eddine",
+      "demandeur": "Samira ELHOUSSINY",
+      "ligne_budgetaire": "Boursier",
+      "entite": "SAP+d",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "EL Bouzidi Salah Eddine",
+      "demandeur": "Samira ELHOUSSINY",
+      "ligne_budgetaire": "Boursier",
+      "entite": "SAP+d",
+      "room_code": "16C21-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32132",
+    "kind": "modification",
+    "detail": "room_code:  → 16C22-a, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "SAHEL ACHRAF / MOUBTAHIJ YOUSSEF",
+      "demandeur": "Salim CHIGUER",
+      "ligne_budgetaire": "190FI",
+      "entite": "CEPH",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "SAHEL ACHRAF / MOUBTAHIJ YOUSSEF",
+      "demandeur": "Salim CHIGUER",
+      "ligne_budgetaire": "190FI",
+      "entite": "CEPH",
+      "room_code": "16C22-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32073",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32070",
+    "kind": "modification",
+    "detail": "room_code:  → 16C22-b, status: VALIDATED → COMPLETED, depart: 2026-07-30 → 2026-07-31",
+    "before": {
+      "nom": "Adam Ait Ali",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-29",
+      "depart": "2026-07-30"
+    },
+    "after": {
+      "nom": "Adam Ait Ali",
+      "demandeur": "Oumayma BOUZID",
+      "ligne_budgetaire": "129FIEV26-04",
+      "entite": "COMMUNICATION",
+      "room_code": "16C22-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-29",
+      "depart": "2026-07-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31909",
+    "kind": "modification",
+    "detail": "room_code:  → 16C22-b, status: VALIDATED → COMPLETED, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "abdellah MAICHINE",
+      "demandeur": "Kaoutare ET-TAOUTI",
+      "ligne_budgetaire": "163FIFI003",
+      "entite": "IAP",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "abdellah MAICHINE",
+      "demandeur": "Kaoutare ET-TAOUTI",
+      "ligne_budgetaire": "163FIFI003",
+      "entite": "IAP",
+      "room_code": "16C22-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31314",
+    "kind": "modification",
+    "detail": "room_code:  → 16C31-d, status: VALIDATED → COMPLETED, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "alaoui  ben cherif",
+      "demandeur": "Rabeaa AIT",
+      "ligne_budgetaire": "198-FI",
+      "entite": "IADT",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "alaoui  ben cherif",
+      "demandeur": "Rabeaa AIT",
+      "ligne_budgetaire": "198-FI",
+      "entite": "IADT",
+      "room_code": "16C31-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31805",
+    "kind": "modification",
+    "detail": "room_code:  → 16C32-a, status: VALIDATED → COMPLETED, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Mustapha ZANZOUN",
+      "demandeur": "Mohamed CHBAIK",
+      "ligne_budgetaire": "118-FI",
+      "entite": "LANGUAGE CENTER",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Mustapha ZANZOUN",
+      "demandeur": "Mohamed CHBAIK",
+      "ligne_budgetaire": "118-FI",
+      "entite": "LANGUAGE CENTER",
+      "room_code": "16C32-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32164",
+    "kind": "modification",
+    "detail": "room_code:  → 16D01-a, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "Sara Idrissi Nahil / Hind Elmoussaoui / Afaf Mabrouk",
+      "demandeur": "Housni KHALIL",
+      "ligne_budgetaire": "125FIFI010",
+      "entite": "ESAFE",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "Sara Idrissi Nahil / Hind Elmoussaoui / Afaf Mabrouk",
+      "demandeur": "Housni KHALIL",
+      "ligne_budgetaire": "125FIFI010",
+      "entite": "ESAFE",
+      "room_code": "16D01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29208",
+    "kind": "modification",
+    "detail": "room_code:  → 16D01-a, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-07-05, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "Jaafar GHANBAJA",
+      "demandeur": "Hind ABDELLAOUI",
+      "ligne_budgetaire": "162DP-EMP",
+      "entite": "U168",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "Jaafar GHANBAJA",
+      "demandeur": "Hind ABDELLAOUI",
+      "ligne_budgetaire": "162DP-EMP",
+      "entite": "U168",
+      "room_code": "16D01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "21051",
+    "kind": "modification",
+    "detail": "room_code:  → 16D01-a, status: VALIDATED → COMPLETED, nb_personnes: 4096 → 64, depart: 2026-07-27 → 2026-07-28",
+    "before": {
+      "nom": "Groupe MMC 2026",
+      "demandeur": "Fatiha KASSIMI",
+      "ligne_budgetaire": "173FI-maths",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4096,
+      "arrivee": "2026-07-24",
+      "depart": "2026-07-27"
+    },
+    "after": {
+      "nom": "Groupe MMC 2026",
+      "demandeur": "Fatiha KASSIMI",
+      "ligne_budgetaire": "173FI-maths",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "16D01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 64,
+      "arrivee": "2026-07-24",
+      "depart": "2026-07-28"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31802",
+    "kind": "modification",
+    "detail": "room_code:  → 16D01-c, status: VALIDATED → COMPLETED, nb_personnes: 2704 → 52, depart: 2026-07-10 → 2026-07-11",
+    "before": {
+      "nom": "Groupe SRM MS+TTA",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFC011-B",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 2704,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "Groupe SRM MS+TTA",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFC011-B",
+      "entite": "TECHNIX",
+      "room_code": "16D01-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 52,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-11"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32043",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32122",
+    "kind": "modification",
+    "detail": "room_code:  → 16D12-a, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-10 → 2026-07-11",
+    "before": {
+      "nom": "elouazzane hicham / KHAIY HICHAM / PROF 1",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "elouazzane hicham / KHAIY HICHAM / PROF 1",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "16D12-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-11"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32145",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32152",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "24724",
+    "kind": "modification",
+    "detail": "room_code:  → 16E01-a, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Manal Labied / Saadia Bouftane",
+      "demandeur": "Amine bouskri",
+      "ligne_budgetaire": "RD-EC_SUIVI",
+      "entite": "UGF",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Manal Labied / Saadia Bouftane",
+      "demandeur": "Amine bouskri",
+      "ligne_budgetaire": "RD-EC_SUIVI",
+      "entite": "UGF",
+      "room_code": "16E01-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "28631",
+    "kind": "modification",
+    "detail": "room_code:  → 16E02-a, status: VALIDATED → COMPLETED, nb_personnes: 5 → 1, arrivee: 2026-12-01 → 2026-06-21, depart: 2026-12-30 → 2026-12-31",
+    "before": {
+      "nom": "Chu",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "null",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 5,
+      "arrivee": "2026-12-01",
+      "depart": "2026-12-30"
+    },
+    "after": {
+      "nom": "Chu",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "null",
+      "entite": "CHU",
+      "room_code": "16E02-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-21",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "18651",
+    "kind": "modification",
+    "detail": "room_code:  → 16E02-a, status: VALIDATED → COMPLETED, nb_personnes: 2 → 1, arrivee: 2026-05-01 → 2025-12-02, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr FOUAD EL BEKKALI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 2,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr FOUAD EL BEKKALI",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16E02-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-12-02",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "18556",
+    "kind": "modification",
+    "detail": "room_code:  → 16E02-b, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-11-16, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr Glad Smart Moussounda",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Glad Smart Moussounda",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16E02-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-11-16",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29961",
+    "kind": "modification",
+    "detail": "room_code:  → 16E02-c, status: VALIDATED → COMPLETED, arrivee: 2026-12-01 → 2026-06-01, depart: 2026-12-30 → 2026-12-31",
+    "before": {
+      "nom": "Chu",
+      "demandeur": "Mohammed BALTAOUI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-12-01",
+      "depart": "2026-12-30"
+    },
+    "after": {
+      "nom": "Chu",
+      "demandeur": "Mohammed BALTAOUI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16E02-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-01",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "28688",
+    "kind": "modification",
+    "detail": "room_code:  → 16E02-d, status: VALIDATED → COMPLETED, nb_personnes: 2 → 1, arrivee: 2026-12-01 → 2026-06-20, depart: 2026-12-30 → 2026-12-31",
+    "before": {
+      "nom": "Chu",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 2,
+      "arrivee": "2026-12-01",
+      "depart": "2026-12-30"
+    },
+    "after": {
+      "nom": "Chu",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16E02-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-20",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32205",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-a, status: VALIDATED → APPROVED, depart: 2026-07-13 → 2026-07-14",
+    "before": {
+      "nom": "BADER ESSADQI",
+      "demandeur": "Bader ESSADQI",
+      "ligne_budgetaire": "116FIGP001",
+      "entite": "ISTI",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-13"
+    },
+    "after": {
+      "nom": "BADER ESSADQI",
+      "demandeur": "Bader ESSADQI",
+      "ligne_budgetaire": "116FIGP001",
+      "entite": "ISTI",
+      "room_code": "16E11-a",
+      "room_type": "STUDIO",
+      "status": "APPROVED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-14"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31583",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-a, status: VALIDATED → COMPLETED, nb_personnes: 36 → 6, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Groupe Invité SAPD",
+      "demandeur": "Bader-Eddine BOUDERBA",
+      "ligne_budgetaire": "124-DP",
+      "entite": "SAP+D",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 36,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Groupe Invité SAPD",
+      "demandeur": "Bader-Eddine BOUDERBA",
+      "ligne_budgetaire": "124-DP",
+      "entite": "SAP+D",
+      "room_code": "16E11-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 6,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31442",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-a, status: VALIDATED → COMPLETED, depart: 2026-07-10 → 2026-07-11",
+    "before": {
+      "nom": "imane el ouriachi",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "103008131111",
+      "entite": "ABS",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-10"
+    },
+    "after": {
+      "nom": "imane el ouriachi",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "103008131111",
+      "entite": "ABS",
+      "room_code": "16E11-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-11"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31392",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31129",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-a, status: VALIDATED → COMPLETED, depart: 2026-07-21 → 2026-07-22",
+    "before": {
+      "nom": "FATEMI Abdelilah",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIGP002",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-21"
+    },
+    "after": {
+      "nom": "FATEMI Abdelilah",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIGP002",
+      "entite": "GTI",
+      "room_code": "16E11-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-22"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31124",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-a, status: VALIDATED → COMPLETED, depart: 2026-07-17 → 2026-07-18",
+    "before": {
+      "nom": "El Houssaine Quenjel",
+      "demandeur": "Yousra MESKINE",
+      "ligne_budgetaire": "173DPPR002-3",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-14",
+      "depart": "2026-07-17"
+    },
+    "after": {
+      "nom": "El Houssaine Quenjel",
+      "demandeur": "Yousra MESKINE",
+      "ligne_budgetaire": "173DPPR002-3",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "16E11-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-14",
+      "depart": "2026-07-18"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "21057",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-a, status: VALIDATED → COMPLETED, nb_personnes: 50 → 5, depart: 2026-07-27 → 2026-07-28",
+    "before": {
+      "nom": "Groupe MMC 2026",
+      "demandeur": "Fatiha KASSIMI",
+      "ligne_budgetaire": "173FI-maths",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 50,
+      "arrivee": "2026-07-24",
+      "depart": "2026-07-27"
+    },
+    "after": {
+      "nom": "Groupe MMC 2026",
+      "demandeur": "Fatiha KASSIMI",
+      "ligne_budgetaire": "173FI-maths",
+      "entite": "COLLEGE OF COMPUTING",
+      "room_code": "16E11-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 5,
+      "arrivee": "2026-07-24",
+      "depart": "2026-07-28"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32085",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-b, status: VALIDATED → COMPLETED, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "SARA SAHRAOUI",
+      "demandeur": "Nadia SEGHIR",
+      "ligne_budgetaire": "177FIEM47",
+      "entite": "EXED",
+      "room_code": "16E11-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-06",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31966",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-b, status: VALIDATED → COMPLETED, depart: 2026-07-03 → 2026-07-04",
+    "before": {
+      "nom": "Youssef Ait Akki",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-03"
+    },
+    "after": {
+      "nom": "Youssef Ait Akki",
+      "demandeur": "Sara GHANEM",
+      "ligne_budgetaire": "131FIFCMLOG",
+      "entite": "TECHNIX",
+      "room_code": "16E11-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-02",
+      "depart": "2026-07-04"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31807",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-b, status: VALIDATED → COMPLETED, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "Mustapha ZANZOUN",
+      "demandeur": "Mohamed CHBAIK",
+      "ligne_budgetaire": "118-FI",
+      "entite": "LANGUAGE CENTER",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "Mustapha ZANZOUN",
+      "demandeur": "Mohamed CHBAIK",
+      "ligne_budgetaire": "118-FI",
+      "entite": "LANGUAGE CENTER",
+      "room_code": "16E11-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31268",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-b, status: VALIDATED → COMPLETED, depart: 2026-07-22 → 2026-07-23",
+    "before": {
+      "nom": "Khalid BENJELLOUN",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIRS004",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-22"
+    },
+    "after": {
+      "nom": "Khalid BENJELLOUN",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIRS004",
+      "entite": "GTI",
+      "room_code": "16E11-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-20",
+      "depart": "2026-07-23"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "29782",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-b, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-29 → 2026-07-02",
+    "before": {
+      "nom": "Bensitel Mohamed",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIOI002",
+      "entite": "GTI",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-29"
+    },
+    "after": {
+      "nom": "Bensitel Mohamed",
+      "demandeur": "Imane RAMI",
+      "ligne_budgetaire": "147FIOI002",
+      "entite": "GTI",
+      "room_code": "16E11-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32177",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-c, status: VALIDATED → COMPLETED, nb_personnes: 16 → 4, depart: 2026-07-16 → 2026-07-17",
+    "before": {
+      "nom": "Reda QERDACHE / Ammar Meriam / BENYOUSOF Khadija / Salma DOUTAR",
+      "demandeur": "Nouh AGUILAL",
+      "ligne_budgetaire": "102FIN-FI",
+      "entite": "DAF",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 16,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-16"
+    },
+    "after": {
+      "nom": "Reda QERDACHE / Ammar Meriam / BENYOUSOF Khadija / Salma DOUTAR",
+      "demandeur": "Nouh AGUILAL",
+      "ligne_budgetaire": "102FIN-FI",
+      "entite": "DAF",
+      "room_code": "16E11-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "32040",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-c, status: VALIDATED → COMPLETED, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "Fouzia Lamnafsi",
+      "demandeur": "Nezha BENTALB",
+      "ligne_budgetaire": "127DP-PART",
+      "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "Fouzia Lamnafsi",
+      "demandeur": "Nezha BENTALB",
+      "ligne_budgetaire": "127DP-PART",
+      "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+      "room_code": "16E11-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-09",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31826",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-c, status: VALIDATED → COMPLETED, depart: 2026-07-08 → 2026-07-09",
+    "before": {
+      "nom": "Sara Moubtiri",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "111000011111",
+      "entite": "ABS",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-08"
+    },
+    "after": {
+      "nom": "Sara Moubtiri",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "111000011111",
+      "entite": "ABS",
+      "room_code": "16E11-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-07",
+      "depart": "2026-07-09"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "18737",
+    "kind": "ajout",
+    "detail": "Nouvelle réservation",
+    "before": null,
+    "after": null
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "16213",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-c, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-10-20, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "FATIMA EZZAHRA HAOUSSIA",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "FATIMA EZZAHRA HAOUSSIA",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16E11-c",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-10-20",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31930",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-d, status: VALIDATED → COMPLETED, depart: 2026-07-09 → 2026-07-10",
+    "before": {
+      "nom": "Wojciech KNAP",
+      "demandeur": "Mohamed BENKIRANE",
+      "ligne_budgetaire": "163DPPR02-1",
+      "entite": "IAP",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-09"
+    },
+    "after": {
+      "nom": "Wojciech KNAP",
+      "demandeur": "Mohamed BENKIRANE",
+      "ligne_budgetaire": "163DPPR02-1",
+      "entite": "IAP",
+      "room_code": "16E11-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-10"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31489",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-d, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, depart: 2026-07-23 → 2026-07-24",
+    "before": {
+      "nom": "Kamal AJAKANE / Otmane KASMI",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPACD142",
+      "entite": "SHBM",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-23"
+    },
+    "after": {
+      "nom": "Kamal AJAKANE / Otmane KASMI",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPACD142",
+      "entite": "SHBM",
+      "room_code": "16E11-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-07-13",
+      "depart": "2026-07-24"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "15661",
+    "kind": "modification",
+    "detail": "room_code:  → 16E11-d, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-11-01, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Dr Zineb Algouti",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Dr Zineb Algouti",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "102OP-CHU",
+      "entite": "CHU",
+      "room_code": "16E11-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-11-01",
+      "depart": "2026-12-31"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31999",
+    "kind": "modification",
+    "detail": "room_code:  → 16E21-a, status: VALIDATED → COMPLETED, nb_personnes: 25 → 5, depart: 2026-07-11 → 2026-07-12",
+    "before": {
+      "nom": "Groupe Evenement Summer Camp - Participants Internes",
+      "demandeur": "Mouad TOUIL",
+      "ligne_budgetaire": "127DPPR007-6",
+      "entite": "LIMSET",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 25,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-11"
+    },
+    "after": {
+      "nom": "Groupe Evenement Summer Camp - Participants Internes",
+      "demandeur": "Mouad TOUIL",
+      "ligne_budgetaire": "127DPPR007-6",
+      "entite": "LIMSET",
+      "room_code": "16E21-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 5,
+      "arrivee": "2026-07-05",
+      "depart": "2026-07-12"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31942",
+    "kind": "modification",
+    "detail": "room_code:  → 16E21-b, status: VALIDATED → COMPLETED, depart: 2026-07-16 → 2026-07-17",
+    "before": {
+      "nom": "Latifa ACHAKAJ",
+      "demandeur": "Manal WAKRIM",
+      "ligne_budgetaire": "128DPPR08-5",
+      "entite": "IWRI",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-16"
+    },
+    "after": {
+      "nom": "Latifa ACHAKAJ",
+      "demandeur": "Manal WAKRIM",
+      "ligne_budgetaire": "128DPPR08-5",
+      "entite": "IWRI",
+      "room_code": "16E21-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-08",
+      "depart": "2026-07-17"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31724",
+    "kind": "modification",
+    "detail": "room_code:  → 16E21-b, status: VALIDATED → COMPLETED, nb_personnes: 9 → 3, depart: 2026-07-22 → 2026-07-23",
+    "before": {
+      "nom": "ANAS HAJIRI / AZZOUZI YOUNES / mohamed kantana",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPFB142",
+      "entite": "SHBM",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 9,
+      "arrivee": "2026-07-19",
+      "depart": "2026-07-22"
+    },
+    "after": {
+      "nom": "ANAS HAJIRI / AZZOUZI YOUNES / mohamed kantana",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPFB142",
+      "entite": "SHBM",
+      "room_code": "16E21-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 3,
+      "arrivee": "2026-07-19",
+      "depart": "2026-07-23"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31577",
+    "kind": "modification",
+    "detail": "room_code:  → 16E23-c, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-07 → 2026-07-03",
+    "before": {
+      "nom": "Nouhaila DOURRACHAD",
+      "demandeur": "Imane FAKKAR",
+      "ligne_budgetaire": "127DP011-27",
+      "entite": "CBS",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "Nouhaila DOURRACHAD",
+      "demandeur": "Imane FAKKAR",
+      "ligne_budgetaire": "127DP011-27",
+      "entite": "CBS",
+      "room_code": "16E23-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31594",
+    "kind": "modification",
+    "detail": "room_code:  → 16E23-d, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-30, depart: 2026-07-03 → 2026-07-04",
+    "before": {
+      "nom": "Bassin Mouad",
+      "demandeur": "kaoutare TAMNAINE",
+      "ligne_budgetaire": "124DPCA004",
+      "entite": "SAP+D",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    },
+    "after": {
+      "nom": "Bassin Mouad",
+      "demandeur": "kaoutare TAMNAINE",
+      "ligne_budgetaire": "124DPCA004",
+      "entite": "SAP+D",
+      "room_code": "16E23-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-30",
+      "depart": "2026-07-04"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "30301",
+    "kind": "modification",
+    "detail": "room_code:  → 16E31-a, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-30, depart: 2026-07-01 → 2026-07-02",
+    "before": {
+      "nom": "Khadija Benharbit El Alami",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "Prestataire RO",
+      "entite": "RO (Work session at the Research office)",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-01"
+    },
+    "after": {
+      "nom": "Khadija Benharbit El Alami",
+      "demandeur": "Aya BEZZI",
+      "ligne_budgetaire": "Prestataire RO",
+      "entite": "RO (Work session at the Research office)",
+      "room_code": "16E31-a",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-30",
+      "depart": "2026-07-02"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31793",
+    "kind": "modification",
+    "detail": "room_code:  → 16E31-b, status: VALIDATED → COMPLETED, nb_personnes: 4 → 2, depart: 2026-07-22 → 2026-07-23",
+    "before": {
+      "nom": "ABDERRAHIM BOURASSE / youssef dermaj",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPFB142",
+      "entite": "SHBM",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 4,
+      "arrivee": "2026-07-19",
+      "depart": "2026-07-22"
+    },
+    "after": {
+      "nom": "ABDERRAHIM BOURASSE / youssef dermaj",
+      "demandeur": "internal_logistics_bmc ABS",
+      "ligne_budgetaire": "CRPFB142",
+      "entite": "SHBM",
+      "room_code": "16E31-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 2,
+      "arrivee": "2026-07-19",
+      "depart": "2026-07-23"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31596",
+    "kind": "modification",
+    "detail": "room_code:  → 16E31-b, status: VALIDATED → COMPLETED, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Youssef Maaloufa",
+      "demandeur": "Bader-Eddine BOUDERBA",
+      "ligne_budgetaire": "124-DP",
+      "entite": "SAP+D",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Youssef Maaloufa",
+      "demandeur": "Bader-Eddine BOUDERBA",
+      "ligne_budgetaire": "124-DP",
+      "entite": "SAP+D",
+      "room_code": "16E31-b",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31597",
+    "kind": "modification",
+    "detail": "room_code:  → 16E31-d, status: VALIDATED → COMPLETED, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Soumia Mounir",
+      "demandeur": "Bader-Eddine BOUDERBA",
+      "ligne_budgetaire": "124-DP",
+      "entite": "SAP+D",
+      "room_code": "",
+      "room_type": "STUDIO",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Soumia Mounir",
+      "demandeur": "Bader-Eddine BOUDERBA",
+      "ligne_budgetaire": "124-DP",
+      "entite": "SAP+D",
+      "room_code": "16E31-d",
+      "room_type": "STUDIO",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31606",
+    "kind": "modification",
+    "detail": "room_code:  → 16E32-a, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Zaid ABDEL Mounim",
+      "demandeur": "Oumaima IDRISSI",
+      "ligne_budgetaire": "129-FI",
+      "entite": "CORPORATE COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Zaid ABDEL Mounim",
+      "demandeur": "Oumaima IDRISSI",
+      "ligne_budgetaire": "129-FI",
+      "entite": "CORPORATE COMMUNICATION",
+      "room_code": "16E32-a",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31648",
+    "kind": "modification",
+    "detail": "room_code:  → 16E32-b, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-07 → 2026-07-08",
+    "before": {
+      "nom": "Fatima Zahra SBABOU",
+      "demandeur": "Manal WAKRIM",
+      "ligne_budgetaire": "128-DP_CP",
+      "entite": "IWRI",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-07"
+    },
+    "after": {
+      "nom": "Fatima Zahra SBABOU",
+      "demandeur": "Manal WAKRIM",
+      "ligne_budgetaire": "128-DP_CP",
+      "entite": "IWRI",
+      "room_code": "16E32-b",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-08"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31657",
+    "kind": "modification",
+    "detail": "room_code:  → 16E32-c, status: VALIDATED → COMPLETED, arrivee: 2026-07-01 → 2026-06-29, depart: 2026-07-02 → 2026-07-03",
+    "before": {
+      "nom": "Abdelghafour amezdour",
+      "demandeur": "Oumaima IDRISSI",
+      "ligne_budgetaire": "129-FI",
+      "entite": "CORPORATE COMMUNICATION",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-07-01",
+      "depart": "2026-07-02"
+    },
+    "after": {
+      "nom": "Abdelghafour amezdour",
+      "demandeur": "Oumaima IDRISSI",
+      "ligne_budgetaire": "129-FI",
+      "entite": "CORPORATE COMMUNICATION",
+      "room_code": "16E32-c",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "31668",
+    "kind": "modification",
+    "detail": "room_code:  → 16E32-d, status: VALIDATED → COMPLETED, depart: 2026-06-30 → 2026-07-03",
+    "before": {
+      "nom": "Jaafar GHANBAJA",
+      "demandeur": "Hind ABDELLAOUI",
+      "ligne_budgetaire": "162DP-EMP",
+      "entite": "U168",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-06-30"
+    },
+    "after": {
+      "nom": "Jaafar GHANBAJA",
+      "demandeur": "Hind ABDELLAOUI",
+      "ligne_budgetaire": "162DP-EMP",
+      "entite": "U168",
+      "room_code": "16E32-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2026-06-29",
+      "depart": "2026-07-03"
+    }
+  },
+  {
+    "ts": "2026-07-12T07:22:55",
+    "ref": "17718",
+    "kind": "modification",
+    "detail": "room_code:  → 16E33-d, status: VALIDATED → COMPLETED, arrivee: 2026-05-01 → 2025-11-15, depart: 2026-05-30 → 2026-12-31",
+    "before": {
+      "nom": "Chaufeur Parc Auto",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "null",
+      "entite": "Parc Auto",
+      "room_code": "",
+      "room_type": "CHAMBRE",
+      "status": "VALIDATED",
+      "nb_personnes": 1,
+      "arrivee": "2026-05-01",
+      "depart": "2026-05-30"
+    },
+    "after": {
+      "nom": "Chaufeur Parc Auto",
+      "demandeur": "Youness AOUINATI",
+      "ligne_budgetaire": "null",
+      "entite": "Parc Auto",
+      "room_code": "16E33-d",
+      "room_type": "CHAMBRE",
+      "status": "COMPLETED",
+      "nb_personnes": 1,
+      "arrivee": "2025-11-15",
+      "depart": "2026-12-31"
+    }
+  }
+]

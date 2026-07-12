@@ -1,0 +1,4627 @@
+{
+  "28631": {
+    "reference": "28631",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "null",
+    "entite": "CHU",
+    "room_code": "16E02-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-21",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-21",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "21106": {
+    "reference": "21106",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Ibtissam Benhamou / Dr Anas Chehboun",
+    "is_group": false,
+    "sujet": "CHU",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A02-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-12-31",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 2,
+    "guests": [
+      "Ibtissam Benhamou",
+      "Dr Anas Chehboun"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-12-31",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "11775": {
+    "reference": "11775",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Iliass Nour Idrissi",
+    "is_group": false,
+    "sujet": "N/A",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "U198",
+    "entite": "CHU",
+    "room_code": "16A13-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-07-14",
+    "date_depart": "2027-08-19",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr Iliass Nour Idrissi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-07-14",
+        "depart": "2027-08-19"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31732": {
+    "reference": "31732",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr EL\n  BEKKALI FOUAD",
+    "is_group": false,
+    "sujet": "MISSION",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A13-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-30",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr EL\n  BEKKALI FOUAD"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-30",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "22011": {
+    "reference": "22011",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mehdi Maskouf",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A13-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-01-19",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Mehdi Maskouf"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-01-19",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "19897": {
+    "reference": "19897",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mehdi Maskouf",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Abdellah MOUSSAID",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A13-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-12-10",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Mehdi Maskouf"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-12-10",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "15650": {
+    "reference": "15650",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr MASKOUF MEHDI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A13-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-10-14",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr MASKOUF MEHDI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-10-14",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "11632": {
+    "reference": "11632",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Sidiki Kamissok",
+    "is_group": false,
+    "sujet": "N/A",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A13-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-08-12",
+    "date_depart": "2026-08-12",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr Sidiki Kamissok"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-08-12",
+        "depart": "2026-08-12"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "29718": {
+    "reference": "29718",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr My Slimane Alaoui",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-12",
+    "date_depart": "2026-07-07",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr My Slimane Alaoui"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-12",
+        "depart": "2026-07-07"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "27648": {
+    "reference": "27648",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Arsène NTINI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-04-12",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr Arsène NTINI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-04-12",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "19553": {
+    "reference": "19553",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Mouna EL BOUATMANI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-12-02",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr Mouna EL BOUATMANI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-12-02",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "18652": {
+    "reference": "18652",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr. Riad Semlali",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-11-11",
+    "date_depart": "2026-11-17",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr. Riad Semlali"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-11",
+        "depart": "2026-11-17"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "15657": {
+    "reference": "15657",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr ELBOUATMANI Mouna / Jihane mhaili / Dr ETTOUMI NABIL / Hajar Dahman",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-10-09",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 4,
+    "guests": [
+      "Dr ELBOUATMANI Mouna",
+      "Jihane mhaili",
+      "Dr ETTOUMI NABIL",
+      "Hajar Dahman"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-10-09",
+        "depart": "2026-12-31"
+      },
+      {
+        "arrivee": "2025-12-31",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "12247": {
+    "reference": "12247",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Sara Jourani / Dr Nezha Haimeur / Dr El Yazid Alaoui Boufares",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Khadija LAKHDAR",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-07-14",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 3,
+    "guests": [
+      "Dr Sara Jourani",
+      "Dr Nezha Haimeur",
+      "Dr El Yazid Alaoui Boufares"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-07-14",
+        "depart": "2026-12-31"
+      },
+      {
+        "arrivee": "2026-05-11",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31833": {
+    "reference": "31833",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr\n  Arsène NTINI",
+    "is_group": false,
+    "sujet": "MISSION",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-30",
+    "date_depart": "2026-07-07",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr\n  Arsène NTINI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-30",
+        "depart": "2026-07-07"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "28688": {
+    "reference": "28688",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E02-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-20",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-20",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "21127": {
+    "reference": "21127",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mouna El Kadiri",
+    "is_group": false,
+    "sujet": "CHU",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A33-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-01-01",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Mouna El Kadiri"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-01-01",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "25380": {
+    "reference": "25380",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr El Bekkali Fouad",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A33-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-05-05",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr El Bekkali Fouad"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-05-05",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31028": {
+    "reference": "31028",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A33-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-18",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-18",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "18651": {
+    "reference": "18651",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr FOUAD EL BEKKALI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E02-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-12-02",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr FOUAD EL BEKKALI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-12-02",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "18556": {
+    "reference": "18556",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Glad Smart Moussounda",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E02-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-11-16",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr Glad Smart Moussounda"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-16",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "29961": {
+    "reference": "29961",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Mohammed BALTAOUI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E02-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-01",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-01",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "29782": {
+    "reference": "29782",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Bensitel Mohamed",
+    "is_group": false,
+    "sujet": "Professeur Vacataire • GTI",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FIOI002",
+    "entite": "GTI",
+    "room_code": "16E11-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Bensitel Mohamed"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "16213": {
+    "reference": "16213",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "FATIMA EZZAHRA HAOUSSIA",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E11-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-10-20",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "FATIMA EZZAHRA HAOUSSIA"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-10-20",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "15661": {
+    "reference": "15661",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr Zineb Algouti",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E11-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-11-01",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr Zineb Algouti"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-01",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "30301": {
+    "reference": "30301",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Khadija Benharbit El Alami",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "Prestataire RO",
+    "entite": "RO (Work session at the Research office)",
+    "room_code": "16E31-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-30",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Khadija Benharbit El Alami"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-30",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31122": {
+    "reference": "31122",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Taoufik Laamyem / Fahd Guitouni / Riad Tabiben",
+    "is_group": false,
+    "sujet": "Comité de cloture - APRD",
+    "demandeur": "Amine bouskri",
+    "ligne_budgetaire": "RD-EC_SUIVI",
+    "entite": "UGF",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 3,
+    "guests": [
+      "Taoufik Laamyem",
+      "Fahd Guitouni",
+      "Riad Tabiben"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-02"
+      },
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "19887": {
+    "reference": "19887",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "DOUNIA WAHIM / HAJAR DLIA / SARA SAHRAOUI",
+    "is_group": false,
+    "sujet": "MIPI",
+    "demandeur": "Nadia SEGHIR",
+    "ligne_budgetaire": "177FIEM47",
+    "entite": "EXED",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-28",
+    "date_depart": "2026-07-18",
+    "nb_personnes": 3,
+    "guests": [
+      "DOUNIA WAHIM",
+      "HAJAR DLIA",
+      "SARA SAHRAOUI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-28",
+        "depart": "2026-07-03"
+      },
+      {
+        "arrivee": "2026-07-16",
+        "depart": "2026-07-18"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31174": {
+    "reference": "31174",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdelkarim el bouihi",
+    "is_group": false,
+    "sujet": "Music school ( karim )",
+    "demandeur": "Issam Ouardani",
+    "ligne_budgetaire": "150-FI-SL",
+    "entite": "SOLE",
+    "room_code": "16A01-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Abdelkarim el bouihi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31390": {
+    "reference": "31390",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "SALAH BENALY",
+    "is_group": false,
+    "sujet": "Intervenant EMINES",
+    "demandeur": "Ghizlane benziouana",
+    "ligne_budgetaire": "101-FI",
+    "entite": "EMINES",
+    "room_code": "16A03-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-28",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "SALAH BENALY"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-28",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31504": {
+    "reference": "31504",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Zineb OUALLAOUT",
+    "is_group": false,
+    "sujet": "Cours",
+    "demandeur": "Imane FAKKAR",
+    "ligne_budgetaire": "113DPPR026-1",
+    "entite": "CBS",
+    "room_code": "16A03-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Zineb OUALLAOUT"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31505": {
+    "reference": "31505",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "IKHLASSE BADIDI / AMINE TIYANE",
+    "is_group": false,
+    "sujet": "STAGE",
+    "demandeur": "Fatimaezzahra NACIRI",
+    "ligne_budgetaire": "155-SIS-OA",
+    "entite": "DSA",
+    "room_code": "16A03-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 2,
+    "guests": [
+      "IKHLASSE BADIDI",
+      "AMINE TIYANE"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "30820": {
+    "reference": "30820",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "YOU YA / ZHU XINQUAN",
+    "is_group": false,
+    "sujet": "Montage du pilote acheté via Oloom LLC FZ",
+    "demandeur": "Ibtissam BAHBOUHI",
+    "ligne_budgetaire": "154DPP3-3-10",
+    "entite": "ACER COE",
+    "room_code": "16B02-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-28",
+    "date_depart": "2026-07-05",
+    "nb_personnes": 2,
+    "guests": [
+      "YOU YA",
+      "ZHU XINQUAN"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-28",
+        "depart": "2026-07-05"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "30851": {
+    "reference": "30851",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mademoiselle Oumkeltoum AMAR",
+    "is_group": false,
+    "sujet": "ACTIVIE MASCIR",
+    "demandeur": "Soumya CHOUQUI",
+    "ligne_budgetaire": "191-DP Deplacement de Recherche Appliquee",
+    "entite": "MASCIR",
+    "room_code": "16B02-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-04",
+    "nb_personnes": 1,
+    "guests": [
+      "Mademoiselle Oumkeltoum AMAR"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-04"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "18516": {
+    "reference": "18516",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Ex MASTER - NRJ G2",
+    "is_group": true,
+    "sujet": "Ex MASTER - NRJ G2",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFCMLOG",
+    "entite": "TECHNIX",
+    "room_code": "16B22-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-30",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 30,
+    "guests": [
+      "HABBA Lahcen",
+      "MOUSSAOUI El Ghali",
+      "MAHBOUB Yassine",
+      "MAMI Youssef",
+      "BAHARI Abdelhakim",
+      "EL KOUNDI  Abderrahmane",
+      "MOUFAKKIR Mohamed",
+      "BENSLIMANE Saad",
+      "ZOMORROUD Rachid",
+      "SAHLI Badre",
+      "EL MALKI ALAOUI El Ghali",
+      "BRIBRI Abdessamad",
+      "EL KASMI  Youness",
+      "RAQI Hicham",
+      "RGUIAG Ahmed",
+      "HACHIM Wafaa",
+      "NADINI Mohammed",
+      "BOUDARQA Youness",
+      "HILLAL Karim",
+      "TOTBI Salah",
+      "KOTMANI Tariq",
+      "NAANANI Yassine",
+      "ELYAMANI Yassine",
+      "GOURAR  Redouane",
+      "MABROUK Youssef",
+      "SLIMANI Youssef",
+      "IBRAHIMI Hamza",
+      "TAMOUDI Abdelaziz",
+      "CHBOUBI  Jamal",
+      "LATIFI Khalid"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-30",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31577": {
+    "reference": "31577",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Nouhaila DOURRACHAD",
+    "is_group": false,
+    "sujet": "Cours",
+    "demandeur": "Imane FAKKAR",
+    "ligne_budgetaire": "127DP011-27",
+    "entite": "CBS",
+    "room_code": "16E23-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Nouhaila DOURRACHAD"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31668": {
+    "reference": "31668",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Jaafar GHANBAJA",
+    "is_group": false,
+    "sujet": "Equipement CORELABS",
+    "demandeur": "Hind ABDELLAOUI",
+    "ligne_budgetaire": "162DP-EMP",
+    "entite": "U168",
+    "room_code": "16E32-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Jaafar GHANBAJA"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "24724": {
+    "reference": "24724",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Manal Labied / Saadia Bouftane",
+    "is_group": false,
+    "sujet": "UGF - Comité de cloture - APRD",
+    "demandeur": "Amine bouskri",
+    "ligne_budgetaire": "RD-EC_SUIVI",
+    "entite": "UGF",
+    "room_code": "16E01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 2,
+    "guests": [
+      "Manal Labied",
+      "Saadia Bouftane"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31594": {
+    "reference": "31594",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Bassin Mouad",
+    "is_group": false,
+    "sujet": "Atelier Métamorphose",
+    "demandeur": "kaoutare TAMNAINE",
+    "ligne_budgetaire": "124DPCA004",
+    "entite": "SAP+D",
+    "room_code": "16E23-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-30",
+    "date_depart": "2026-07-04",
+    "nb_personnes": 1,
+    "guests": [
+      "Bassin Mouad"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-30",
+        "depart": "2026-07-04"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31606": {
+    "reference": "31606",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Zaid ABDEL Mounim",
+    "is_group": false,
+    "sujet": "Equipe AV",
+    "demandeur": "Oumaima IDRISSI",
+    "ligne_budgetaire": "129-FI",
+    "entite": "CORPORATE COMMUNICATION",
+    "room_code": "16E32-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Zaid ABDEL Mounim"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31648": {
+    "reference": "31648",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Fatima Zahra SBABOU",
+    "is_group": false,
+    "sujet": "Séjour scientifique",
+    "demandeur": "Manal WAKRIM",
+    "ligne_budgetaire": "128-DP_CP",
+    "entite": "IWRI",
+    "room_code": "16E32-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "Fatima Zahra SBABOU"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31657": {
+    "reference": "31657",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdelghafour amezdour",
+    "is_group": false,
+    "sujet": "Equipe AV",
+    "demandeur": "Oumaima IDRISSI",
+    "ligne_budgetaire": "129-FI",
+    "entite": "CORPORATE COMMUNICATION",
+    "room_code": "16E32-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-06-29",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Abdelghafour amezdour"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "17718": {
+    "reference": "17718",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chaufeur Parc Auto",
+    "is_group": false,
+    "sujet": "Invité",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "null",
+    "entite": "Parc Auto",
+    "room_code": "16E33-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2025-11-15",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chaufeur Parc Auto"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-15",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31834": {
+    "reference": "31834",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mme BAYAHIA HANANE",
+    "is_group": false,
+    "sujet": "MISSION",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A02-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Mme BAYAHIA HANANE"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "29301": {
+    "reference": "29301",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "null",
+    "entite": "CHU",
+    "room_code": "16A02-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-10",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-10",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31250": {
+    "reference": "31250",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Rahma BENCHOUAI",
+    "ligne_budgetaire": "null",
+    "entite": "chu",
+    "room_code": "16A13-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-04",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-04",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32205": {
+    "reference": "32205",
+    "cree_le": null,
+    "status_raw": "APPROVED",
+    "nom": "BADER ESSADQI",
+    "is_group": false,
+    "sujet": "housing",
+    "demandeur": "Bader ESSADQI",
+    "ligne_budgetaire": "116FIGP001",
+    "entite": "ISTI",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-14",
+    "nb_personnes": 1,
+    "guests": [
+      "BADER ESSADQI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-14"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31583": {
+    "reference": "31583",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Invité SAPD",
+    "is_group": true,
+    "sujet": "Invité SAPD",
+    "demandeur": "Bader-Eddine BOUDERBA",
+    "ligne_budgetaire": "124-DP",
+    "entite": "SAP+D",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 6,
+    "guests": [
+      "Karim Boumlik",
+      "Mohammed El Jouad",
+      "Mustapha Diani",
+      "Soumia Mounir",
+      "Zaid Romani",
+      "Mohammed Ahachad"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31442": {
+    "reference": "31442",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "imane el ouriachi",
+    "is_group": false,
+    "sujet": "map program module 4",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "103008131111",
+    "entite": "ABS",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 1,
+    "guests": [
+      "imane el ouriachi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31129": {
+    "reference": "31129",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "FATEMI Abdelilah",
+    "is_group": false,
+    "sujet": "Professeur Vacataire • GTI",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FIGP002",
+    "entite": "GTI",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-20",
+    "date_depart": "2026-07-22",
+    "nb_personnes": 1,
+    "guests": [
+      "FATEMI Abdelilah"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-20",
+        "depart": "2026-07-22"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31124": {
+    "reference": "31124",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "El Houssaine Quenjel",
+    "is_group": false,
+    "sujet": "Invité",
+    "demandeur": "Yousra MESKINE",
+    "ligne_budgetaire": "173DPPR002-3",
+    "entite": "COLLEGE OF COMPUTING",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-14",
+    "date_depart": "2026-07-18",
+    "nb_personnes": 1,
+    "guests": [
+      "El Houssaine Quenjel"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-14",
+        "depart": "2026-07-18"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "21057": {
+    "reference": "21057",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe MMC 2026",
+    "is_group": true,
+    "sujet": "MMC 2026",
+    "demandeur": "Fatiha KASSIMI",
+    "ligne_budgetaire": "173FI-maths",
+    "entite": "COLLEGE OF COMPUTING",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-24",
+    "date_depart": "2026-07-28",
+    "nb_personnes": 5,
+    "guests": [
+      "JENDO 5",
+      "JENDO 4",
+      "JENDO 3",
+      "JENDO 2",
+      "JENDO 1"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-24",
+        "depart": "2026-07-28"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32085": {
+    "reference": "32085",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "SARA SAHRAOUI",
+    "is_group": false,
+    "sujet": "MIPI",
+    "demandeur": "Nadia SEGHIR",
+    "ligne_budgetaire": "177FIEM47",
+    "entite": "EXED",
+    "room_code": "16E11-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-06",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "SARA SAHRAOUI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-06",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31966": {
+    "reference": "31966",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Youssef Ait Akki",
+    "is_group": false,
+    "sujet": "EM PROF",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFCMLOG",
+    "entite": "TECHNIX",
+    "room_code": "16E11-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-04",
+    "nb_personnes": 1,
+    "guests": [
+      "Youssef Ait Akki"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-04"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31807": {
+    "reference": "31807",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mustapha ZANZOUN",
+    "is_group": false,
+    "sujet": "Cours",
+    "demandeur": "Mohamed CHBAIK",
+    "ligne_budgetaire": "118-FI",
+    "entite": "LANGUAGE CENTER",
+    "room_code": "16E11-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "Mustapha ZANZOUN"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31268": {
+    "reference": "31268",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Khalid BENJELLOUN",
+    "is_group": false,
+    "sujet": "Professeur Affilié • GTI",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FIRS004",
+    "entite": "GTI",
+    "room_code": "16E11-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-20",
+    "date_depart": "2026-07-23",
+    "nb_personnes": 1,
+    "guests": [
+      "Khalid BENJELLOUN"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-20",
+        "depart": "2026-07-23"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32177": {
+    "reference": "32177",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Reda QERDACHE / Ammar Meriam / BENYOUSOF Khadija / Salma DOUTAR",
+    "is_group": false,
+    "sujet": "DAF-FIDAROC",
+    "demandeur": "Nouh AGUILAL",
+    "ligne_budgetaire": "102FIN-FI",
+    "entite": "DAF",
+    "room_code": "16E11-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 4,
+    "guests": [
+      "Reda QERDACHE",
+      "Ammar Meriam",
+      "BENYOUSOF Khadija",
+      "Salma DOUTAR"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32040": {
+    "reference": "32040",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Fouzia Lamnafsi",
+    "is_group": false,
+    "sujet": "Déplacement professionnel",
+    "demandeur": "Nezha BENTALB",
+    "ligne_budgetaire": "127DP-PART",
+    "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+    "room_code": "16E11-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "Fouzia Lamnafsi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31826": {
+    "reference": "31826",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Sara Moubtiri",
+    "is_group": false,
+    "sujet": "Project mining - Empirical work",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "111000011111",
+    "entite": "ABS",
+    "room_code": "16E11-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Sara Moubtiri"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31930": {
+    "reference": "31930",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Wojciech KNAP",
+    "is_group": false,
+    "sujet": "Meeting",
+    "demandeur": "Mohamed BENKIRANE",
+    "ligne_budgetaire": "163DPPR02-1",
+    "entite": "IAP",
+    "room_code": "16E11-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "Wojciech KNAP"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31489": {
+    "reference": "31489",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Kamal AJAKANE / Otmane KASMI",
+    "is_group": false,
+    "sujet": "Rooms Division, préparation pédagogique et opérationnelle, année académique 2026-2027",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "CRPACD142",
+    "entite": "SHBM",
+    "room_code": "16E11-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-24",
+    "nb_personnes": 2,
+    "guests": [
+      "Kamal AJAKANE",
+      "Otmane KASMI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-24"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31999": {
+    "reference": "31999",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Evenement Summer Camp - Participants Internes",
+    "is_group": true,
+    "sujet": "Evenement Summer Camp - Participants Internes",
+    "demandeur": "Mouad TOUIL",
+    "ligne_budgetaire": "127DPPR007-6",
+    "entite": "LIMSET",
+    "room_code": "16E21-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-12",
+    "nb_personnes": 5,
+    "guests": [
+      "Yodita\n  Emmanuel Yosia DAIM",
+      "Sofia\n  CHENKAR",
+      "Asmaa HABTI",
+      "Taha HADDADI",
+      "Hamza LAFRIKI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-12"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31942": {
+    "reference": "31942",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Latifa ACHAKAJ",
+    "is_group": false,
+    "sujet": "Échange pédagogique",
+    "demandeur": "Manal WAKRIM",
+    "ligne_budgetaire": "128DPPR08-5",
+    "entite": "IWRI",
+    "room_code": "16E21-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 1,
+    "guests": [
+      "Latifa ACHAKAJ"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31724": {
+    "reference": "31724",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "ANAS HAJIRI / AZZOUZI YOUNES / mohamed kantana",
+    "is_group": false,
+    "sujet": "formation",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "CRPFB142",
+    "entite": "SHBM",
+    "room_code": "16E21-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-19",
+    "date_depart": "2026-07-23",
+    "nb_personnes": 3,
+    "guests": [
+      "ANAS HAJIRI",
+      "AZZOUZI YOUNES",
+      "mohamed kantana"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-19",
+        "depart": "2026-07-23"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31793": {
+    "reference": "31793",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "ABDERRAHIM BOURASSE / youssef dermaj",
+    "is_group": false,
+    "sujet": "formation",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "CRPFB142",
+    "entite": "SHBM",
+    "room_code": "16E31-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-19",
+    "date_depart": "2026-07-23",
+    "nb_personnes": 2,
+    "guests": [
+      "ABDERRAHIM BOURASSE",
+      "youssef dermaj"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-19",
+        "depart": "2026-07-23"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31596": {
+    "reference": "31596",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Youssef Maaloufa",
+    "is_group": false,
+    "sujet": "Invité SAPD",
+    "demandeur": "Bader-Eddine BOUDERBA",
+    "ligne_budgetaire": "124-DP",
+    "entite": "SAP+D",
+    "room_code": "16E31-b",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Youssef Maaloufa"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "31597": {
+    "reference": "31597",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Soumia Mounir",
+    "is_group": false,
+    "sujet": "Invité SAPD",
+    "demandeur": "Bader-Eddine BOUDERBA",
+    "ligne_budgetaire": "124-DP",
+    "entite": "SAP+D",
+    "room_code": "16E31-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Soumia Mounir"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32114": {
+    "reference": "32114",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "fatim ezzahra baloune",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-20",
+    "date_depart": "2026-07-22",
+    "nb_personnes": 1,
+    "guests": [
+      "fatim ezzahra baloune"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-20",
+        "depart": "2026-07-22"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32059": {
+    "reference": "32059",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Zohra Essabir",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-27",
+    "date_depart": "2026-07-29",
+    "nb_personnes": 1,
+    "guests": [
+      "Zohra Essabir"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-27",
+        "depart": "2026-07-29"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32053": {
+    "reference": "32053",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdellah Menou",
+    "is_group": false,
+    "sujet": "Master CEM2",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FICE002",
+    "entite": "GTI",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-10",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 1,
+    "guests": [
+      "Abdellah Menou"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-10",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31398": {
+    "reference": "31398",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Rachid  MRABET / Mustapha NAIMI / Mohamed Chikhaoui",
+    "is_group": false,
+    "sujet": "Comité technique - GAP YIELD",
+    "demandeur": "Amine bouskri",
+    "ligne_budgetaire": "135AUPR007",
+    "entite": "UGF",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 3,
+    "guests": [
+      "Rachid  MRABET",
+      "Mustapha NAIMI",
+      "Mohamed Chikhaoui"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "30394": {
+    "reference": "30394",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "KAMAL FAIZ / Marwa SOUNNY SLITINE",
+    "is_group": false,
+    "sujet": "Animation d'atelier",
+    "demandeur": "Imane Anejjar",
+    "ligne_budgetaire": "155-HC-CC",
+    "entite": "CAREER CENTER",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-14",
+    "nb_personnes": 2,
+    "guests": [
+      "KAMAL FAIZ",
+      "Marwa SOUNNY SLITINE"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-06"
+      },
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-07"
+      },
+      {
+        "arrivee": "2026-07-12",
+        "depart": "2026-07-13"
+      },
+      {
+        "arrivee": "2026-07-12",
+        "depart": "2026-07-14"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29488": {
+    "reference": "29488",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mokhtar BenEmbarek",
+    "is_group": false,
+    "sujet": "Prestataire de services",
+    "demandeur": "souad aboud",
+    "ligne_budgetaire": "116FI-LMTP",
+    "entite": "ISTI",
+    "room_code": "16A12-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Mokhtar BenEmbarek"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "18183": {
+    "reference": "18183",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Ex MASTER - ExOP G2",
+    "is_group": true,
+    "sujet": "Ex MASTER - ExOP G2",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFCMLOG",
+    "entite": "TECHNIX",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-04",
+    "nb_personnes": 32,
+    "guests": [
+      "BENTANJI Mohamed",
+      "BEN AMAR  Mohammed",
+      "ELMOKHANTAR Loubna",
+      "RACHYQ Driss",
+      "MARZOUKI Ayyoub",
+      "ER-RACHDY Dris",
+      "EL HAJI Idriss",
+      "BOUHNINI Nawfal",
+      "EL YOUSSOUFI  Driss",
+      "EL YOUNANI  Abderrahim",
+      "BARRANI Younes",
+      "ABETTI  Mohammed",
+      "ALIMI Morad",
+      "EL-AMOUD  Hicham",
+      "ADIB Abdelati",
+      "BOUTAOUROUT  Soufiane",
+      "ZITOUNI Farid",
+      "EL IDRISSI  Mohammed",
+      "MACHHOUB  Ismail",
+      "BENYAFA Hicham",
+      "SAMIH Abdelhadi",
+      "EL KRYMY  Abdelali",
+      "CHOURAIK Abdelhak",
+      "ELBADAOUI Belkacem",
+      "BERKACHIA EL Mostafa",
+      "DAHBI  Yassine",
+      "BENHAIDA Mohammed Reda",
+      "MOUSSLIM  Kamal",
+      "BENKHAITI Hamid",
+      "EDDAHABI  Aziz",
+      "LACHGAR Younes",
+      "SHAILI Noureddine"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-04"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32180": {
+    "reference": "32180",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mohamed LAMNAI",
+    "is_group": false,
+    "sujet": "Gate 1 UM6P LaunchPad",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "111000001104",
+    "entite": "CENTRE D'EXCELLENCE CIE",
+    "room_code": "16A01-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-20",
+    "date_depart": "2026-07-21",
+    "nb_personnes": 1,
+    "guests": [
+      "Mohamed LAMNAI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-20",
+        "depart": "2026-07-21"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32115": {
+    "reference": "32115",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "sanae essalmi",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16A01-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-21",
+    "date_depart": "2026-07-23",
+    "nb_personnes": 1,
+    "guests": [
+      "sanae essalmi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-21",
+        "depart": "2026-07-23"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31403": {
+    "reference": "31403",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Mourafaka Lot 3 région DOD session 2",
+    "is_group": true,
+    "sujet": "Mourafaka Lot 3 région DOD session 2",
+    "demandeur": "Fatima Zahra",
+    "ligne_budgetaire": "124LOPR06-1",
+    "entite": "COOP-LAB",
+    "room_code": "16A01-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-26",
+    "date_depart": "2026-08-07",
+    "nb_personnes": 72,
+    "guests": [
+      "Hassan22",
+      "Hassan21",
+      "Hassan20",
+      "Hassan19",
+      "Hassan18",
+      "Hassan17",
+      "Hassan16",
+      "Hassan15",
+      "Hassan14",
+      "Hassan13",
+      "Hassan12",
+      "Hassan11",
+      "Hassan10",
+      "Hassan9",
+      "Hassan8",
+      "Hassan7",
+      "Hassan6",
+      "Hassan5",
+      "Hassan4",
+      "Hassan3",
+      "Hassan2",
+      "Hassan1",
+      "Fatima50",
+      "Fatima49",
+      "Fatima48",
+      "Fatima47",
+      "Fatima46",
+      "Fatima45",
+      "Fatima44",
+      "Fatima43",
+      "Fatima42",
+      "Fatima41",
+      "Fatima40",
+      "Fatima39",
+      "Fatima38",
+      "Fatima36",
+      "Fatima35",
+      "Fatima34",
+      "Fatima33",
+      "Fatima32",
+      "Fatima31",
+      "Fatima30",
+      "Fatima29",
+      "Fatima28",
+      "Fatima27",
+      "Fatima26",
+      "Fatima25",
+      "Fatima24",
+      "Fatima23",
+      "Fatima37",
+      "Fatima22",
+      "Fatima21",
+      "Fatima20",
+      "Fatima19",
+      "Fatima18",
+      "Fatima17",
+      "Fatima16",
+      "Fatima15",
+      "Fatima14",
+      "Fatima13",
+      "Fatima12",
+      "Fatima11",
+      "Fatima10",
+      "Fatima9",
+      "Fatima8",
+      "Fatima7",
+      "Fatima6",
+      "Fatima5",
+      "Fatima4",
+      "Fatima3",
+      "Fatima2",
+      "Fatima1"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-26",
+        "depart": "2026-08-07"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31142": {
+    "reference": "31142",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Imad El Maskini / Najoua Ettouri / Chaymae Sennoune",
+    "is_group": false,
+    "sujet": "Master CEM2",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FICE002",
+    "entite": "GTI",
+    "room_code": "16A01-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-12",
+    "nb_personnes": 3,
+    "guests": [
+      "Imad El Maskini",
+      "Najoua Ettouri",
+      "Chaymae Sennoune"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-12"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29793": {
+    "reference": "29793",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe MMC 2026",
+    "is_group": true,
+    "sujet": "MMC 2026",
+    "demandeur": "Mounia KALTOUMI",
+    "ligne_budgetaire": "173FI-maths",
+    "entite": "COLLEGE OF COMPUTING",
+    "room_code": "16A01-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-23",
+    "date_depart": "2026-07-24",
+    "nb_personnes": 30,
+    "guests": [
+      "jenda 29",
+      "jenda 27",
+      "jenda 26",
+      "jenda 24",
+      "jenda 22",
+      "jenda 21",
+      "jenda 19",
+      "jenda 17",
+      "jenda 15",
+      "jenda 14",
+      "jenda 12",
+      "jenda 10",
+      "jenda 8",
+      "jenda 7",
+      "jenda 5",
+      "jenda 3",
+      "jenda 1",
+      "jenda 30",
+      "jenda 28",
+      "jenda 25",
+      "jenda 23",
+      "jenda 20",
+      "jenda 18",
+      "jenda 16",
+      "jenda 13",
+      "jenda 11",
+      "jenda 9",
+      "jenda 6",
+      "jenda 4",
+      "jenda 2"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-23",
+        "depart": "2026-07-24"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32129": {
+    "reference": "32129",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdeltif Zridi / Mina Bouti",
+    "is_group": false,
+    "sujet": "Atelier d'astronomie",
+    "demandeur": "Mariem benmhamed",
+    "ligne_budgetaire": "102-FI-OM",
+    "entite": "OPEN MINDS",
+    "room_code": "16A01-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-21",
+    "date_depart": "2026-07-22",
+    "nb_personnes": 2,
+    "guests": [
+      "Abdeltif Zridi",
+      "Mina Bouti"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-21",
+        "depart": "2026-07-22"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32123": {
+    "reference": "32123",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "AHACHAD MOHAMMED",
+    "is_group": false,
+    "sujet": "PROF. AHACHAD MOHAMMED",
+    "demandeur": "kaoutare TAMNAINE",
+    "ligne_budgetaire": "124DPMS006",
+    "entite": "SAP+D",
+    "room_code": "16A01-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-12",
+    "date_depart": "2026-07-15",
+    "nb_personnes": 1,
+    "guests": [
+      "AHACHAD MOHAMMED"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-12",
+        "depart": "2026-07-15"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "30753": {
+    "reference": "30753",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Préreservation - Green Hydrogen Summer Camp & Hackathon 2026",
+    "is_group": true,
+    "sujet": "Préreservation - Green Hydrogen Summer Camp & Hackathon 2026",
+    "demandeur": "Mouad TOUIL",
+    "ligne_budgetaire": "167FIME006",
+    "entite": "LIMSET",
+    "room_code": "16A01-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-12",
+    "nb_personnes": 50,
+    "guests": [
+      "Rania\n  EL OTMANI",
+      "Dafir",
+      "Souad\n  Khalas",
+      "Belgarni",
+      "Bouterfak",
+      "Youssef\n  JAAFAR",
+      "El Massoudi",
+      "Komla Edem Wilfried\n  TSETSE",
+      "KAOUTHAR\n  RHAZOUANE",
+      "Narjis\n  Lamjadi",
+      "Inass\n  Sabbahi",
+      "LAGHLIMI",
+      "BARAGHEN Ihssane",
+      "Zakaria\n  Faik",
+      "Mohamed\n  Haida",
+      "Saida\n  AIT SAID",
+      "Zakaria\n  Bekkari",
+      "Habiba\n  El Hyani",
+      "Mouttaki",
+      "Bakr\n  Legsir",
+      "Hamza\n  Benbrigite",
+      "Hamza\n  Charif",
+      "Salima\n  HANDA",
+      "Fatima\n  Ezzahra\n  El\n  Mouhidine",
+      "cheikhelwely\n  elwely\n  salem",
+      "SOUKOUNA\n  Bandiougou",
+      "AOUJIL",
+      "Hajar\n  Karafy",
+      "OJOAWO\n  MICHEAL OLUWDAMILARE AYOMIKUN",
+      "Moukhlis",
+      "NOUHAILA\n  OUSSAFI",
+      "Lamoual",
+      "Khalid\n  EL-ACHOURI",
+      "Nouhaila\n  EL AFIFI",
+      "Salma\n  DAIM",
+      "rihab\n  mallouki",
+      "Basma\n  Bastaoui",
+      "Hajar\n  Rati",
+      "Brach",
+      "Sahar\n  Taddist",
+      "Chouchna",
+      "Yasmine\n  Siyarh",
+      "SABRINE\n  KALILY",
+      "Zineb\n  HANANE",
+      "Soukaina\n  Saddougui",
+      "HAJAR\n  BELLAMDAOUAR",
+      "Elassal\n  Nisrine",
+      "Maha\n  Zerhouni",
+      "Fatima\n  ezzahra\n  Brahimi",
+      "YASSINE\n  KALIL"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-12"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32181": {
+    "reference": "32181",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Nouredine Ouhaddou / Mohamed Jalal Maaouni / Noureddine Hamid",
+    "is_group": false,
+    "sujet": "Workshop",
+    "demandeur": "Hamza HACHAMI",
+    "ligne_budgetaire": "169-FI",
+    "entite": "VANGUARD",
+    "room_code": "16A01-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-15",
+    "nb_personnes": 3,
+    "guests": [
+      "Nouredine Ouhaddou",
+      "Mohamed Jalal Maaouni",
+      "Noureddine Hamid"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-15"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31835": {
+    "reference": "31835",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Youssef Moulane",
+    "is_group": false,
+    "sujet": "Meeting",
+    "demandeur": "Mohamed BENKIRANE",
+    "ligne_budgetaire": "163WOPR004",
+    "entite": "IAP",
+    "room_code": "16A01-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Youssef Moulane"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32097": {
+    "reference": "32097",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe SRM TTA",
+    "is_group": true,
+    "sujet": "SRM TTA",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFC011-B",
+    "entite": "TECHNIX",
+    "room_code": "16A03-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-12",
+    "date_depart": "2026-07-18",
+    "nb_personnes": 10,
+    "guests": [
+      "RAKDANI Cherkaoui",
+      "OTMANE Ayoub",
+      "Ed-Dalhi Ahmed",
+      "OIDOUD Adil",
+      "EL FALLAK El Amin",
+      "OUAZZANI AUBRAHIMI Mohamed",
+      "ETTADOUARI Hicham",
+      "EL OUKEILY Zakaria",
+      "ADARDOUR Mohamed",
+      "BARZNIN Aisam"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-12",
+        "depart": "2026-07-18"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31589": {
+    "reference": "31589",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Aya bouziane",
+    "is_group": false,
+    "sujet": "invité",
+    "demandeur": "Rabeaa AIT",
+    "ligne_budgetaire": "198-FI",
+    "entite": "IADT",
+    "room_code": "16A03-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Aya bouziane"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-02"
+      },
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31725": {
+    "reference": "31725",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Manal EL AKROUCHI",
+    "is_group": false,
+    "sujet": "Project Kick-off and meetings extension (+1 day)",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "RSC_SCI_ME",
+    "entite": "SCI",
+    "room_code": "16A11-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Manal EL AKROUCHI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31792": {
+    "reference": "31792",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Ali Bouabid",
+    "is_group": false,
+    "sujet": "Training",
+    "demandeur": "Zineb MARJAN",
+    "ligne_budgetaire": "148 - DP",
+    "entite": "ISE",
+    "room_code": "16A11-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-02",
+    "nb_personnes": 1,
+    "guests": [
+      "Ali Bouabid"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-02"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32168": {
+    "reference": "32168",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "yassine belouquid",
+    "is_group": false,
+    "sujet": "Tournage",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129-FI",
+    "entite": "COMMUNICATION",
+    "room_code": "16A12-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-14",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 1,
+    "guests": [
+      "yassine belouquid"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-14",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32175": {
+    "reference": "32175",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Sara ait hak",
+    "is_group": false,
+    "sujet": "Mission",
+    "demandeur": "Imane FAKKAR",
+    "ligne_budgetaire": "113DPPR026-1",
+    "entite": "CBS",
+    "room_code": "16A12-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 1,
+    "guests": [
+      "Sara ait hak"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32007": {
+    "reference": "32007",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdellah madoun",
+    "is_group": false,
+    "sujet": "Music School (Madoun)",
+    "demandeur": "Issam Ouardani",
+    "ligne_budgetaire": "150-FI-SL",
+    "entite": "SOLE",
+    "room_code": "16A12-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-03",
+    "date_depart": "2026-07-04",
+    "nb_personnes": 1,
+    "guests": [
+      "Abdellah madoun"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-03",
+        "depart": "2026-07-04"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32178": {
+    "reference": "32178",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe TAGDEV - Formation RAE2C",
+    "is_group": true,
+    "sujet": "TAGDEV - Formation RAE2C",
+    "demandeur": "Samira AZOUAKAN",
+    "ligne_budgetaire": "111DP-UE",
+    "entite": "I&E LAB",
+    "room_code": "16A21-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-15",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 21,
+    "guests": [
+      "à communiquer",
+      "رشيد ملوكي",
+      "نور الدين اوفاسكا",
+      "محمد منصوري",
+      "عبد العزيز الجلالي",
+      "عبد العالي الفاضلي",
+      "عماد الشير",
+      "الحسين كلو",
+      "حميد لقطيب",
+      "عصام صادوق",
+      "محمد البحري",
+      "الزبير محمد",
+      "هاجر اومزيل",
+      "وعليشان فاطمة",
+      "سعيد بن خويا",
+      "فضيل عبد الرخيم",
+      "الناصري نسيمة",
+      "ليلى رمزي",
+      "رشيدة نعماوي",
+      "جعفري حنان",
+      "صديقي صفية"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-15",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32124": {
+    "reference": "32124",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe Bootcamp Summer 2",
+    "is_group": true,
+    "sujet": "Bootcamp Summer 2",
+    "demandeur": "Imane Anejjar",
+    "ligne_budgetaire": "155FI-SEP2",
+    "entite": "CAREER CENTER",
+    "room_code": "16A21-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-15",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 7,
+    "guests": [
+      "Nom 10",
+      "Nom 9",
+      "Nom 8",
+      "Nom 7",
+      "Nom 6",
+      "Nom 5",
+      "Nom 4"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-15",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32058": {
+    "reference": "32058",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Aya Lazhar",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16C21-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Aya Lazhar"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32167": {
+    "reference": "32167",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Khalid Kouiss",
+    "is_group": false,
+    "sujet": "Master RME",
+    "demandeur": "Naima AOUAD",
+    "ligne_budgetaire": "147FIRME001",
+    "entite": "GTI",
+    "room_code": "16B02-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-19",
+    "date_depart": "2026-07-24",
+    "nb_personnes": 1,
+    "guests": [
+      "Khalid Kouiss"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-19",
+        "depart": "2026-07-24"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31485": {
+    "reference": "31485",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abnane Ibtissam",
+    "is_group": false,
+    "sujet": "Professeur affilié",
+    "demandeur": "Rabeaa AIT",
+    "ligne_budgetaire": "198-FI",
+    "entite": "IADT",
+    "room_code": "16B11-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Abnane Ibtissam"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29598": {
+    "reference": "29598",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe EM MRH G1",
+    "is_group": true,
+    "sujet": "EM MRH G1",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFCMLOG",
+    "entite": "TECHNIX",
+    "room_code": "16B11-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-04",
+    "nb_personnes": 19,
+    "guests": [
+      "BENHIDA GHALIA",
+      "ATIF NADIA",
+      "EL HADRI  Chadia",
+      "FEDDAH Ghizalane",
+      "ELMASLEH  Salma",
+      "IHSSANE Hassane",
+      "EL AZAR  Dyhaj",
+      "BENZAANOUN Abdellatif",
+      "EL OUAZZANI  HALIMA",
+      "NADDIR Abdelmajid",
+      "SAADI Sara",
+      "MRAOUHI Amina",
+      "BOUKHLOUF JALAL",
+      "SARA GHANEM",
+      "BOUSSAADANNE  Khadija",
+      "Chaimae HOSAYNY",
+      "Bourhil mohammed Amine",
+      "JADBAOUI Redouane",
+      "EL GBOURI Sana"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-04"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31443": {
+    "reference": "31443",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "EL yazid riabi",
+    "is_group": false,
+    "sujet": "MBAT 2 : economics of pricing",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "102,000,900,111",
+    "entite": "ABS",
+    "room_code": "16B22-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-05",
+    "nb_personnes": 1,
+    "guests": [
+      "EL yazid riabi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-05"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31339": {
+    "reference": "31339",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Khalid Kouiss",
+    "is_group": false,
+    "sujet": "Master RME",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FIRME001",
+    "entite": "GTI",
+    "room_code": "16B31-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "Khalid Kouiss"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31289": {
+    "reference": "31289",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "RAJAE Bennane / OUIDIANE ZOUHRI / ESSERHANI MOHAMED",
+    "is_group": false,
+    "sujet": "SOUTENNANCES POMI",
+    "demandeur": "Ghizlane benziouana",
+    "ligne_budgetaire": "101-FI",
+    "entite": "EMINES",
+    "room_code": "16B32-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 3,
+    "guests": [
+      "RAJAE Bennane",
+      "OUIDIANE ZOUHRI",
+      "ESSERHANI MOHAMED"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31837": {
+    "reference": "31837",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "MAHA HANIF",
+    "is_group": false,
+    "sujet": "PFE CI3",
+    "demandeur": "Mouna AIT BENSALEM",
+    "ligne_budgetaire": "122FICI005",
+    "entite": "COLLEGE OF COMPUTING",
+    "room_code": "16C11-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "MAHA HANIF"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31816": {
+    "reference": "31816",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "EL MACHKOURI MOHAMED",
+    "is_group": false,
+    "sujet": "Professeur EMINES",
+    "demandeur": "Ghizlane benziouana",
+    "ligne_budgetaire": "101-FI",
+    "entite": "EMINES",
+    "room_code": "16C11-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-06",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "EL MACHKOURI MOHAMED"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-06",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31801": {
+    "reference": "31801",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Zouhir BALAGH",
+    "is_group": false,
+    "sujet": "Réservation Zouhir BALAGH",
+    "demandeur": "Aymane BOUHMID",
+    "ligne_budgetaire": "121DPPR013",
+    "entite": "GSMI/ GEP",
+    "room_code": "16C11-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-04",
+    "date_depart": "2026-07-06",
+    "nb_personnes": 1,
+    "guests": [
+      "Zouhir BALAGH"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-04",
+        "depart": "2026-07-06"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29556": {
+    "reference": "29556",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe EM EXOP G1",
+    "is_group": true,
+    "sujet": "EM EXOP G1",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFCMLOG",
+    "entite": "TECHNIX",
+    "room_code": "16C11-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 33,
+    "guests": [
+      "EL KASBAOUI  Yassine",
+      "MACHHOUB  Ismail",
+      "ADIB Abdelati",
+      "EL FAROUQY  Mouhcine",
+      "BOUTAOUROUT  Soufiane",
+      "ER-RACHDY Dris",
+      "BEN AMAR  Mohammed",
+      "CHOURAIK Abdelhak",
+      "SAMIH Abdelhadi",
+      "BARRANI Younes",
+      "RACHYQ Driss",
+      "BENKHAITI Hamid",
+      "EL HAJI Idriss",
+      "BERKACHIA EL Mostafa",
+      "BENTANJI Mohamed",
+      "MOUSSLIM  Kamal",
+      "DAHBI  Yassine",
+      "EL IDRISSI  Mohammed",
+      "BOUHNINI Nawfal",
+      "EL KRYMY  Abdelali",
+      "BENHAIDA Mohammed Reda",
+      "SHAILI Noureddine",
+      "EL YOUSSOUFI  Driss",
+      "MARZOUKI Ayyoub",
+      "ABETTI  Mohammed",
+      "BENYAFA Hicham",
+      "ELBADAOUI Belkacem",
+      "ALIMI Morad",
+      "ELMOKHANTAR Loubna",
+      "EL-AMOUD  Hicham",
+      "EDDAHABI  Aziz",
+      "ZITOUNI Farid",
+      "EL YOUNANI  Abderrahim"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31928": {
+    "reference": "31928",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "SOUKRATI ZAKARIAE",
+    "is_group": false,
+    "sujet": "SRM MS",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFC011-B",
+    "entite": "TECHNIX",
+    "room_code": "16C11-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "SOUKRATI ZAKARIAE"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32037": {
+    "reference": "32037",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Fouzia Lamnafsi",
+    "is_group": false,
+    "sujet": "déplacement professionnel",
+    "demandeur": "Nezha BENTALB",
+    "ligne_budgetaire": "127DP-PART",
+    "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+    "room_code": "16C11-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "Fouzia Lamnafsi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32042": {
+    "reference": "32042",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Asma  BOUSSELMI",
+    "is_group": false,
+    "sujet": "MIPI",
+    "demandeur": "Nadia SEGHIR",
+    "ligne_budgetaire": "177FIEM47",
+    "entite": "EXED",
+    "room_code": "16C12-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Asma  BOUSSELMI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "28679": {
+    "reference": "28679",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "HAJAR DLIA / SARA SAHRAOUI",
+    "is_group": false,
+    "sujet": "MIPI",
+    "demandeur": "Nadia SEGHIR",
+    "ligne_budgetaire": "177FIEM47",
+    "entite": "EXED",
+    "room_code": "16C12-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 2,
+    "guests": [
+      "HAJAR DLIA",
+      "SARA SAHRAOUI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-10"
+      },
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-07"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32105": {
+    "reference": "32105",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "SARA SAHRAOUI",
+    "is_group": false,
+    "sujet": "MIPI",
+    "demandeur": "Nadia SEGHIR",
+    "ligne_budgetaire": "177FIEM47",
+    "entite": "EXED",
+    "room_code": "16C12-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "SARA SAHRAOUI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32055": {
+    "reference": "32055",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Rachid IBBA",
+    "is_group": false,
+    "sujet": "Meeting",
+    "demandeur": "internal_logistics_bmc ABS",
+    "ligne_budgetaire": "CRPMKT126.",
+    "entite": "ABS",
+    "room_code": "16C12-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-06",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "Rachid IBBA"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-06",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32060": {
+    "reference": "32060",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Rania Aouiribi",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16C21-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Rania Aouiribi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32080": {
+    "reference": "32080",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "ILYASS SLASSI",
+    "is_group": false,
+    "sujet": "Réunion de travail",
+    "demandeur": "Salim CHIGUER",
+    "ligne_budgetaire": "190FI",
+    "entite": "CEPH",
+    "room_code": "16C21-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-06",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "ILYASS SLASSI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-06",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "28884": {
+    "reference": "28884",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "EL Bouzidi Salah Eddine",
+    "is_group": false,
+    "sujet": "N/A",
+    "demandeur": "Samira ELHOUSSINY",
+    "ligne_budgetaire": "Boursier",
+    "entite": "SAP+d",
+    "room_code": "16C21-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "EL Bouzidi Salah Eddine"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32132": {
+    "reference": "32132",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "SAHEL ACHRAF / MOUBTAHIJ YOUSSEF",
+    "is_group": false,
+    "sujet": "Réunion de travail",
+    "demandeur": "Salim CHIGUER",
+    "ligne_budgetaire": "190FI",
+    "entite": "CEPH",
+    "room_code": "16C22-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 2,
+    "guests": [
+      "SAHEL ACHRAF",
+      "MOUBTAHIJ YOUSSEF"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32070": {
+    "reference": "32070",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Adam Ait Ali",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16C22-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-29",
+    "date_depart": "2026-07-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Adam Ait Ali"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-29",
+        "depart": "2026-07-31"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31909": {
+    "reference": "31909",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "abdellah MAICHINE",
+    "is_group": false,
+    "sujet": "professeur vacataire",
+    "demandeur": "Kaoutare ET-TAOUTI",
+    "ligne_budgetaire": "163FIFI003",
+    "entite": "IAP",
+    "room_code": "16C22-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-02",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "abdellah MAICHINE"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-02",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31314": {
+    "reference": "31314",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "alaoui  ben cherif",
+    "is_group": false,
+    "sujet": "Professeur affilié",
+    "demandeur": "Rabeaa AIT",
+    "ligne_budgetaire": "198-FI",
+    "entite": "IADT",
+    "room_code": "16C31-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "alaoui  ben cherif"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31805": {
+    "reference": "31805",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mustapha ZANZOUN",
+    "is_group": false,
+    "sujet": "Cours",
+    "demandeur": "Mohamed CHBAIK",
+    "ligne_budgetaire": "118-FI",
+    "entite": "LANGUAGE CENTER",
+    "room_code": "16C32-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-01",
+    "date_depart": "2026-07-03",
+    "nb_personnes": 1,
+    "guests": [
+      "Mustapha ZANZOUN"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-01",
+        "depart": "2026-07-03"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32164": {
+    "reference": "32164",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Sara Idrissi Nahil / Hind Elmoussaoui / Afaf Mabrouk",
+    "is_group": false,
+    "sujet": "concours CI AgEnv 2026",
+    "demandeur": "Housni KHALIL",
+    "ligne_budgetaire": "125FIFI010",
+    "entite": "ESAFE",
+    "room_code": "16D01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 3,
+    "guests": [
+      "Sara Idrissi Nahil",
+      "Hind Elmoussaoui",
+      "Afaf Mabrouk"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29208": {
+    "reference": "29208",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Jaafar GHANBAJA",
+    "is_group": false,
+    "sujet": "Equipement CORELABS",
+    "demandeur": "Hind ABDELLAOUI",
+    "ligne_budgetaire": "162DP-EMP",
+    "entite": "U168",
+    "room_code": "16D01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "Jaafar GHANBAJA"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "21051": {
+    "reference": "21051",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe MMC 2026",
+    "is_group": true,
+    "sujet": "MMC 2026",
+    "demandeur": "Fatiha KASSIMI",
+    "ligne_budgetaire": "173FI-maths",
+    "entite": "COLLEGE OF COMPUTING",
+    "room_code": "16D01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-24",
+    "date_depart": "2026-07-28",
+    "nb_personnes": 64,
+    "guests": [
+      "JENDO 32",
+      "JENDO 31",
+      "JENDO 30",
+      "JENDO 29",
+      "JENDO 28",
+      "JENDO 27",
+      "JENDO 26",
+      "JENDO 25",
+      "JENDO 24",
+      "JENDO 23",
+      "JENDO 22",
+      "JENDO 21",
+      "JENDO 20",
+      "JENDO 19",
+      "JENDO 18",
+      "JENDO 17",
+      "JENDO 16",
+      "JENDO 15",
+      "JENDO 14",
+      "JENDO 13",
+      "JENDO 12",
+      "JENDO 11",
+      "JENDO 10",
+      "JENDO 9",
+      "JENDO 8",
+      "JENDO 7",
+      "JENDO 6",
+      "JENDO 5",
+      "JENDO 4",
+      "JENDO 3",
+      "JENDO 2",
+      "JENDO 1",
+      "JENDA 32",
+      "JENDA 31",
+      "JENDA 30",
+      "JENDA 29",
+      "JENDA 28",
+      "JENDA 27",
+      "JENDA 26",
+      "JENDA 25",
+      "JENDA 24",
+      "JENDA 23",
+      "JENDA 22",
+      "JENDA 21",
+      "JENDA 20",
+      "JENDA 19",
+      "JENDA 18",
+      "JENDA 17",
+      "JENDA 16",
+      "JENDA 15",
+      "JENDA 14",
+      "JENDA 13",
+      "JENDA 12",
+      "JENDA 11",
+      "JENDA 10",
+      "JENDA 9",
+      "JENDA 8",
+      "JENDA 7",
+      "JENDA 6",
+      "JENDA 5",
+      "JENDA 4",
+      "JENDA 3",
+      "JENDA 2",
+      "JENDA 1"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-24",
+        "depart": "2026-07-28"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31802": {
+    "reference": "31802",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Groupe SRM MS+TTA",
+    "is_group": true,
+    "sujet": "SRM MS+TTA",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFC011-B",
+    "entite": "TECHNIX",
+    "room_code": "16D01-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 52,
+    "guests": [
+      "MUSTAPHA BACHAR",
+      "MUSTAPHA S'BAII",
+      "MUSTAPHA SABIR",
+      "EL ALLAM Youssef",
+      "FATH-ALLAH CHEHBI",
+      "HASSAN EL AYACHI",
+      "MASSIH Said",
+      "MOHAMED  LAASIRI",
+      "ADIL SAKIN",
+      "AMINE AITABDELKRIM",
+      "ABDELHAMID FAIZ",
+      "FAICAL RAMI",
+      "MOURAD  BENIBBA",
+      "MOHAMMED EL AMINE   BOURISS",
+      "ALI HOSAYN",
+      "MOURAD  AABID",
+      "AYOUB ELHARDI",
+      "MOHAMED  EDDYANI",
+      "KAMAL EL HATHOUTE",
+      "HAMID EL ABBADI",
+      "RBOUJ Mohammed",
+      "EL ACHOURI Mohammed",
+      "TAKI Ayoub",
+      "HAMID OUAACHA",
+      "HASSAN EL MEÂNAOUI",
+      "AADIL ID MOUSSA",
+      "TIJANI ABDELOUAHED",
+      "GOURARI Youssef",
+      "Amal ARIKA",
+      "EL HACHMI KHALIL",
+      "NADA FENGHAL",
+      "YASMINA IDHMAD",
+      "SROUR Mohammed",
+      "ID MOULOUD ABDENACER",
+      "ABDELMOUNAIM ZERROUAL",
+      "MOHAMED EL MARHRAOUI",
+      "MOHAMED BOUCHBOUK",
+      "IMAD  KOUAR",
+      "MOHAMED AIT ALI",
+      "ABDELLAOUI Abdelhaq",
+      "YASSINE ASBBANE",
+      "ZOUHAIR BENJAA",
+      "ALAMI Mustapha",
+      "SOUHAIL ERRAMMACH",
+      "OFKIR Khalid",
+      "ABDELHALIME DARAMI",
+      "MIFTAHI Youssef  Amine",
+      "SOFYANE IGUIZOUL",
+      "ABDELWAHAB  EL HOSIMI",
+      "FANDA YOUNESS",
+      "ABDELHGHANI AYOUCH",
+      "SAIDI YASSIR DAMOUSSI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-10"
+      },
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-11"
+      },
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32122": {
+    "reference": "32122",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "elouazzane hicham / KHAIY HICHAM / PROF 1",
+    "is_group": false,
+    "sujet": "PROF MASTER",
+    "demandeur": "Sara GHANEM",
+    "ligne_budgetaire": "131FIFCMLOG",
+    "entite": "TECHNIX",
+    "room_code": "16D12-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 3,
+    "guests": [
+      "elouazzane hicham",
+      "KHAIY HICHAM",
+      "PROF 1"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32228": {
+    "reference": "32228",
+    "cree_le": null,
+    "status_raw": "PENDING",
+    "nom": "Groupe Concours Oraux",
+    "is_group": true,
+    "sujet": "Concours Oraux",
+    "demandeur": "Bader ESSADQI",
+    "ligne_budgetaire": "116FIGP001",
+    "entite": "ISTI",
+    "room_code": "16A01-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-14",
+    "date_depart": "2026-07-15",
+    "nb_personnes": 18,
+    "guests": [
+      "RACHIDI Lina",
+      "KANDIL Niama",
+      "JAMAI Lina",
+      "HAMRAOUI Salma",
+      "HAMRAOUI Mariam",
+      "ELHASNAOUY Wiam",
+      "ELAAMRANI Aya",
+      "BENALI Nada",
+      "BAKALI Hajar",
+      "ABOUMEHDI Douae",
+      "ELMADANI Mohamed",
+      "ELIDRISSI Mohammed-Amine",
+      "ELBAROUDI Mohammed",
+      "ELATTLATI Mohammed Yassin",
+      "BOUJADI Abderrahmane",
+      "BENCHENNANE Adam",
+      "ANDALOUSSI Walid",
+      "AITMOUSS Haitam"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-14",
+        "depart": "2026-07-15"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32230": {
+    "reference": "32230",
+    "cree_le": null,
+    "status_raw": "PENDING",
+    "nom": "Groupe Concours Oraux",
+    "is_group": true,
+    "sujet": "Concours Oraux",
+    "demandeur": "Bader ESSADQI",
+    "ligne_budgetaire": "116FIGP001",
+    "entite": "ISTI",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-15",
+    "date_depart": "2026-07-16",
+    "nb_personnes": 19,
+    "guests": [
+      "SENHAJI Sara",
+      "RAHALI Alae",
+      "ELAMRANI Hibat Allah",
+      "CHAIR Wissal",
+      "BAKI Soraya",
+      "AJBILOU Zaineb",
+      "ABOUZID Sara",
+      "AMAREHOUN Yasmine",
+      "ZEMZOUMI Mohamed Taha",
+      "TALAINI Mohammed El Barrae",
+      "TAGEMOUATI Youssef",
+      "JAMALBENNIS Adam",
+      "ELYAHYAOUI Yahya",
+      "ELMODAFAR Fadi",
+      "EDDHISSA Oussama",
+      "CHRIF Ayman",
+      "BENJELLOUN Abderrahmane",
+      "BENELMOKADDEM Zakariae",
+      "ATIOUI Rayane"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-15",
+        "depart": "2026-07-16"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32077": {
+    "reference": "32077",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Zohra Essabir",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-15",
+    "nb_personnes": 1,
+    "guests": [
+      "Zohra Essabir"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-15"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29492": {
+    "reference": "29492",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mokhtar BenEmbarek",
+    "is_group": false,
+    "sujet": "Prestataire de services",
+    "demandeur": "souad aboud",
+    "ligne_budgetaire": "116FI-LMTP",
+    "entite": "ISTI",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-29",
+    "date_depart": "2026-07-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Mokhtar BenEmbarek"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-29",
+        "depart": "2026-07-31"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29491": {
+    "reference": "29491",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mokhtar BenEmbarek",
+    "is_group": false,
+    "sujet": "Prestataire de services",
+    "demandeur": "souad aboud",
+    "ligne_budgetaire": "116FI-LMTP",
+    "entite": "ISTI",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-22",
+    "date_depart": "2026-07-24",
+    "nb_personnes": 1,
+    "guests": [
+      "Mokhtar BenEmbarek"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-22",
+        "depart": "2026-07-24"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29489": {
+    "reference": "29489",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mokhtar BenEmbarek",
+    "is_group": false,
+    "sujet": "Prestataire de services",
+    "demandeur": "souad aboud",
+    "ligne_budgetaire": "116FI-LMTP",
+    "entite": "ISTI",
+    "room_code": "16A01-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "Mokhtar BenEmbarek"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "29490": {
+    "reference": "29490",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mokhtar BenEmbarek",
+    "is_group": false,
+    "sujet": "Prestataire de services",
+    "demandeur": "souad aboud",
+    "ligne_budgetaire": "116FI-LMTP",
+    "entite": "ISTI",
+    "room_code": "16A01-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-15",
+    "date_depart": "2026-07-17",
+    "nb_personnes": 1,
+    "guests": [
+      "Mokhtar BenEmbarek"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-15",
+        "depart": "2026-07-17"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "30312": {
+    "reference": "30312",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "null",
+    "entite": "CHU",
+    "room_code": "16A02-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-08",
+    "date_depart": "2026-12-30",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-08",
+        "depart": "2026-12-30"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32154": {
+    "reference": "32154",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mme BAYAHIA HANANE",
+    "is_group": false,
+    "sujet": "MISSION",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A02-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Mme BAYAHIA HANANE"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32229": {
+    "reference": "32229",
+    "cree_le": null,
+    "status_raw": "PENDING",
+    "nom": "Groupe Concours Oraux",
+    "is_group": true,
+    "sujet": "Concours Oraux",
+    "demandeur": "Bader ESSADQI",
+    "ligne_budgetaire": "116FIGP001",
+    "entite": "ISTI",
+    "room_code": "16A12-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-13",
+    "date_depart": "2026-07-14",
+    "nb_personnes": 23,
+    "guests": [
+      "TIOUDKI YOUNESS",
+      "SRHIR MOHAMED REDA",
+      "IHIHI ABDELKEBIR",
+      "ELAISSAOUI HAMZA",
+      "ELMOGHRTI SAAD",
+      "EL ISSAOUI AIMAD",
+      "BOURTI AYMANE",
+      "BOUGNIN AYMANE",
+      "EL MADANI OUSSAMA",
+      "TALA DOUAE",
+      "SEGHROUCHNI SAMAH",
+      "SAGHIR MARYAM",
+      "LOUTFI MARYEM",
+      "JEBBOUR KAOUTHAR",
+      "DINANI LAMYAE",
+      "DARRASSI INES",
+      "CHOUIBI SOUKAINA",
+      "BOURAMDANE HAJAR",
+      "BIRHIL SAMIRA",
+      "BAYOUSSEF ILHAM",
+      "AJMOUH AICHA",
+      "ABDELAOUI ALAE",
+      "BAHADDOU HAYAT"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-14"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31358": {
+    "reference": "31358",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "null",
+    "entite": "chu",
+    "room_code": "16A13-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-06-27",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-06-27",
+        "depart": "2026-12-31"
+      },
+      {
+        "arrivee": "2026-06-29",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "30993": {
+    "reference": "30993",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Aya BEZZI",
+    "ligne_budgetaire": "null",
+    "entite": "chu",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "19161": {
+    "reference": "19161",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "DR. RIAD SEMLALI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-11-26",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "DR. RIAD SEMLALI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-26",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "30362": {
+    "reference": "30362",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Chu",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A23-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Chu"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "32066": {
+    "reference": "32066",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Aya Lazhar",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16A32-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-22",
+    "date_depart": "2026-07-24",
+    "nb_personnes": 1,
+    "guests": [
+      "Aya Lazhar"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-22",
+        "depart": "2026-07-24"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "24764": {
+    "reference": "24764",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Mehdi Maskouf",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A33-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-02-18",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Mehdi Maskouf"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-02-18",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "17209": {
+    "reference": "17209",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr MASKOUF MEHDI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16A33-d",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-11-01",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr MASKOUF MEHDI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-01",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "30826": {
+    "reference": "30826",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "YOU YA / ZHU XINQUAN",
+    "is_group": false,
+    "sujet": "Montage du pilote acheté via Oloom LLC FZ",
+    "demandeur": "Ibtissam BAHBOUHI",
+    "ligne_budgetaire": "154DPP3-3-10",
+    "entite": "ACER COE",
+    "room_code": "16B31-a",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-05",
+    "date_depart": "2026-07-14",
+    "nb_personnes": 2,
+    "guests": [
+      "YOU YA",
+      "ZHU XINQUAN"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-05",
+        "depart": "2026-07-14"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32032": {
+    "reference": "32032",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdelkarim el bouihi",
+    "is_group": false,
+    "sujet": "Music school ( karim )",
+    "demandeur": "Issam Ouardani",
+    "ligne_budgetaire": "150-FI-SL",
+    "entite": "SOLE",
+    "room_code": "16C11-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-06",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Abdelkarim el bouihi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-06",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32039": {
+    "reference": "32039",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Fouzia Lamnafsi",
+    "is_group": false,
+    "sujet": "déplacement professionnel",
+    "demandeur": "Nezha BENTALB",
+    "ligne_budgetaire": "127DP-PART",
+    "entite": "DIRECTION DE GESTION DES PARTENARIATS",
+    "room_code": "16C11-d",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-08",
+    "date_depart": "2026-07-09",
+    "nb_personnes": 1,
+    "guests": [
+      "Fouzia Lamnafsi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-08",
+        "depart": "2026-07-09"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32093": {
+    "reference": "32093",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Nouhaila DOURRACHAD",
+    "is_group": false,
+    "sujet": "Examen",
+    "demandeur": "Imane FAKKAR",
+    "ligne_budgetaire": "127DP011-27",
+    "entite": "CBS",
+    "room_code": "16C12-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-07",
+    "date_depart": "2026-07-08",
+    "nb_personnes": 1,
+    "guests": [
+      "Nouhaila DOURRACHAD"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-07",
+        "depart": "2026-07-08"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32073": {
+    "reference": "32073",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Rania Aouiribi",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16C22-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-27",
+    "date_depart": "2026-07-29",
+    "nb_personnes": 1,
+    "guests": [
+      "Rania Aouiribi"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-27",
+        "depart": "2026-07-29"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32043": {
+    "reference": "32043",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Asma  BOUSSELMI",
+    "is_group": false,
+    "sujet": "MIPI",
+    "demandeur": "Nadia SEGHIR",
+    "ligne_budgetaire": "177FIEM47",
+    "entite": "EXED",
+    "room_code": "16D11-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 1,
+    "guests": [
+      "Asma  BOUSSELMI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32145": {
+    "reference": "32145",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Aya Lazhar",
+    "is_group": false,
+    "sujet": "Stagiaire COMM",
+    "demandeur": "Oumayma BOUZID",
+    "ligne_budgetaire": "129FIEV26-04",
+    "entite": "COMMUNICATION",
+    "room_code": "16D21-b",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-10",
+    "nb_personnes": 1,
+    "guests": [
+      "Aya Lazhar"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-10"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "32152": {
+    "reference": "32152",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Abdellah madoun",
+    "is_group": false,
+    "sujet": "Music School (Madoun)",
+    "demandeur": "Issam Ouardani",
+    "ligne_budgetaire": "150-FI-SL",
+    "entite": "SOLE",
+    "room_code": "16D21-c",
+    "room_type": "CHAMBRE",
+    "residence": "16",
+    "date_arrivee": "2026-07-09",
+    "date_depart": "2026-07-11",
+    "nb_personnes": 1,
+    "guests": [
+      "Abdellah madoun"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-09",
+        "depart": "2026-07-11"
+      }
+    ],
+    "section": "CHAMBRES"
+  },
+  "31392": {
+    "reference": "31392",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Bensitel Mohamed",
+    "is_group": false,
+    "sujet": "Professeur Vacataire • GTI",
+    "demandeur": "Imane RAMI",
+    "ligne_budgetaire": "147FIOI002",
+    "entite": "GTI",
+    "room_code": "16E11-a",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2026-07-06",
+    "date_depart": "2026-07-30",
+    "nb_personnes": 1,
+    "guests": [
+      "Bensitel Mohamed"
+    ],
+    "periods": [
+      {
+        "arrivee": "2026-07-06",
+        "depart": "2026-07-09"
+      },
+      {
+        "arrivee": "2026-07-13",
+        "depart": "2026-07-16"
+      },
+      {
+        "arrivee": "2026-07-20",
+        "depart": "2026-07-24"
+      },
+      {
+        "arrivee": "2026-07-27",
+        "depart": "2026-07-30"
+      }
+    ],
+    "section": "STUDIOS"
+  },
+  "18737": {
+    "reference": "18737",
+    "cree_le": null,
+    "status_raw": "COMPLETED",
+    "nom": "Dr FOUAD EL BEKKALI",
+    "is_group": false,
+    "sujet": "",
+    "demandeur": "Youness AOUINATI",
+    "ligne_budgetaire": "102OP-CHU",
+    "entite": "CHU",
+    "room_code": "16E11-c",
+    "room_type": "STUDIO",
+    "residence": "16",
+    "date_arrivee": "2025-11-19",
+    "date_depart": "2026-12-31",
+    "nb_personnes": 1,
+    "guests": [
+      "Dr FOUAD EL BEKKALI"
+    ],
+    "periods": [
+      {
+        "arrivee": "2025-11-19",
+        "depart": "2026-12-31"
+      }
+    ],
+    "section": "STUDIOS"
+  }
+}

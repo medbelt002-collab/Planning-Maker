@@ -1,0 +1,70 @@
+{
+  "residence": "16",
+  "group_threshold": 4,
+  "auto_sync_enabled": false,
+  "auto_sync_minutes": 10,
+  "auto_apply": false,
+  "on_cancel": "archive",
+  "status_rules": [
+    {
+      "match": "valid",
+      "label": "Validé / Confirmé",
+      "action": "add",
+      "note": "",
+      "nuitees": "dates"
+    },
+    {
+      "match": "confirm",
+      "label": "Confirmé",
+      "action": "add",
+      "note": "",
+      "nuitees": "dates"
+    },
+    {
+      "match": "cancel",
+      "label": "Annulé",
+      "action": "delete",
+      "note": "",
+      "nuitees": "dates"
+    },
+    {
+      "match": "attente",
+      "label": "Demande en attente",
+      "action": "add",
+      "note": "Demande en attente",
+      "nuitees": "dates"
+    },
+    {
+      "match": "annulation facturee",
+      "label": "Annulation facturée",
+      "action": "add",
+      "note": "",
+      "nuitees": "one_per_person"
+    },
+    {
+      "match": "annul",
+      "label": "Annulé",
+      "action": "delete",
+      "note": "",
+      "nuitees": "dates"
+    },
+    {
+      "match": "reject",
+      "label": "Rejected",
+      "action": "delete",
+      "note": "",
+      "nuitees": "dates"
+    },
+    {
+      "match": "refus",
+      "label": "Refusé",
+      "action": "delete",
+      "note": "",
+      "nuitees": "dates"
+    }
+  ],
+  "max_parallel": 3,
+  "excluded_entities": [
+    "CHU"
+  ]
+}

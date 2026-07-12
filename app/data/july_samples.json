@@ -1,0 +1,53 @@
+[
+  {
+    "room": "16A01-a",
+    "roomType": "Chambre",
+    "increment": 32114,
+    "status": "COMPLETED",
+    "entity": "COMMUNICATION",
+    "budgetLine": "129FIEV26-04",
+    "subject": "Stagiaire COMM",
+    "demandeur": null,
+    "expIn": "2026-07-20T14:00:00+01:00",
+    "expOut": "2026-07-22T12:00:00+01:00",
+    "guest": "fatim ezzahra baloune",
+    "gender": "FEMALE",
+    "bookingCheckIn": "2026-07-20T13:00:00+00:00",
+    "bookingCheckOut": "2026-07-22T11:00:00+00:00",
+    "createdAt": "2026-07-07T12:40:37.928"
+  },
+  {
+    "room": "16A01-a",
+    "roomType": "Chambre",
+    "increment": 32077,
+    "status": "COMPLETED",
+    "entity": "COMMUNICATION",
+    "budgetLine": "129FIEV26-04",
+    "subject": "Stagiaire COMM",
+    "demandeur": null,
+    "expIn": "2026-07-13T14:00:00+01:00",
+    "expOut": "2026-07-15T12:00:00+01:00",
+    "guest": "Zohra Essabir",
+    "gender": "FEMALE",
+    "bookingCheckIn": "2026-07-13T13:00:00+00:00",
+    "bookingCheckOut": "2026-07-15T11:00:00+00:00",
+    "createdAt": "2026-07-06T14:51:10.718"
+  },
+  {
+    "room": "16A01-a",
+    "roomType": "Chambre",
+    "increment": 32059,
+    "status": "COMPLETED",
+    "entity": "COMMUNICATION",
+    "budgetLine": "129FIEV26-04",
+    "subject": "Stagiaire COMM",
+    "demandeur": null,
+    "expIn": "2026-07-27T14:00:00+01:00",
+    "expOut": "2026-07-29T12:00:00+01:00",
+    "guest": "Zohra Essabir",
+    "gender": "FEMALE",
+    "bookingCheckIn": "2026-07-27T13:00:00+00:00",
+    "bookingCheckOut": "2026-07-29T11:00:00+00:00",
+    "createdAt": "2026-07-06T11:52:48.098"
+  }
+]

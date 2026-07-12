@@ -1,0 +1,9 @@
+app = "PLANNINGV2"
+primary_region = "fra"
+
+[env]
+  PORT = "8000"
+
+[mounts]
+  source = "planning_data"
+  destination = "/app/app/data"
