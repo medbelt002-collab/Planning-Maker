@@ -17,5 +17,5 @@ RUN playwright install --with-deps chromium
 COPY . .
 
 # Run on the port provided by the platform
-ENV PORT=8000
+ENV PORT=8080
 CMD ["python", "run_server.py"]
